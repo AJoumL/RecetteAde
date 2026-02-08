@@ -1,0 +1,5442 @@
+{
+  "recipes": [
+    {
+      "title": "Aiguilettes de Canard aux Patates Douces et Champignons Rôtis",
+      "steps": [
+        "Préchauffez le four à 200°C.",
+        "Pelez la patate douce. Coupez la en cubes. Épluchez l’oignon rouge et coupez-le en lamelles grossières. Lavez les champignons puis coupez les en fines lamelles.",
+        "Déposez tous ces ingrédients sur une plaque de cuisson recouverte de papier sulfurisé. Ajoutez la gousse d’ail entière épluchée, le thym et l’huile d’olive. Salez et poivrez puis mélangez le tout. Enfournez le tout pendant 35min à 180°C, chaleur tournante (remuez de temps en temps) jusqu’à ce que la patate douce devienne à la fois fondante et croustillante. Vers la fin de cuisson, faites cuire les aiguillettes de canard dans une poêle antiadhésive. Poêlez les 2 minutes de chaque côté à feu vif. Assaisonnez les à votre convenance.",
+        "Servez-les avec les légumes et patate douce rôtis. Douces et Champignons Rôtis"
+      ],
+      "step_count": 4,
+      "ingredients": [
+        {
+          "raw": "- Patate douce 250 g",
+          "name": "Patate douce",
+          "quantity": 250.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Thym frais 1 càc",
+          "name": "Thym frais",
+          "quantity": 1.0,
+          "unit": "càc",
+          "grams": 5.0
+        },
+        {
+          "raw": "- Champignon, tr. 100 g",
+          "name": "Champignon, tr.",
+          "quantity": 100.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Oignon rouge 0,5 u",
+          "name": "Oignon rouge",
+          "quantity": 0.5,
+          "unit": "u",
+          "grams": null
+        },
+        {
+          "raw": "- Huile d'olive 2 càc",
+          "name": "Huile d'olive",
+          "quantity": 2.0,
+          "unit": "càc",
+          "grams": 9.0
+        },
+        {
+          "raw": "- Aiguillettes de canard 150 g",
+          "name": "Aiguillettes de canard",
+          "quantity": 150.0,
+          "unit": "g",
+          "grams": null
+        }
+      ],
+      "servings": 1,
+      "source_pdf": "Plan alimentaire 3.PDF",
+      "page_number": 14
+    },
+    {
+      "title": "Bagel Grillé au Saumon et au Concombre",
+      "steps": [
+        "Coupez le bagel (à la farine complète si vous trouvez) en deux et faites-le griller au grille-pain si souhaité.",
+        "Coupez le concombre en rondelles",
+        "Étalez le cream cheese sur le bagel.",
+        "Placez les tranches de concombre et le saumon fumé sur le cream cheese. (Couvrez avec l'autre moitié si votre recette contient le bagel entier.)",
+        "Dégustez!Bagel Grillé au Saumon et au",
+        "Concombre"
+      ],
+      "step_count": 6,
+      "ingredients": [
+        {
+          "raw": "- Concombre 0,25 u",
+          "name": "Concombre",
+          "quantity": 0.25,
+          "unit": "u",
+          "grams": null
+        },
+        {
+          "raw": "- Saumon fumé 30 g",
+          "name": "Saumon fumé",
+          "quantity": 30.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Fromage à tartiner 15 g",
+          "name": "Fromage à tartiner",
+          "quantity": 15.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Bagel 0,5 u",
+          "name": "Bagel",
+          "quantity": 0.5,
+          "unit": "u",
+          "grams": null
+        }
+      ],
+      "servings": 1,
+      "source_pdf": "Plan alimentaire 4.PDF",
+      "page_number": 25
+    },
+    {
+      "title": "Bagel Protéiné au Poulet, Oeufs et Épinards",
+      "steps": [
+        "Fr. de chèvre à tart. 1 càs (15 g)- Bagel 1 u",
+        "Coupez en deux le pain bagel et faites griller au grille-pain ou au four jusqu'à ce qu'il soit doré.",
+        "Étalez le fromage de chèvre uniformément sur chaque face du bagel et assaisonnez avec du sel et du poivre.",
+        "Disposez sur la partie inférieure du bagel les feuilles d'épinard puis le blanc de poulet.",
+        "Terminez avec des tranches d'œuf dur. Couvrir avec la moitié supérieure du bagel et servir"
+      ],
+      "step_count": 5,
+      "ingredients": [
+        {
+          "raw": "- Blanc de poulet 1 tr (40 g)",
+          "name": "Blanc de poulet",
+          "quantity": 1.0,
+          "unit": "tr",
+          "grams": 40.0
+        },
+        {
+          "raw": "- Oeuf, gros 1 u",
+          "name": "Oeuf, gros",
+          "quantity": 1.0,
+          "unit": "u",
+          "grams": null
+        },
+        {
+          "raw": "- Epinard frais 30 g",
+          "name": "Epinard frais",
+          "quantity": 30.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Fr. de chèvre à tart. 1 càs (15 g)",
+          "name": "Fr. de chèvre à tart.",
+          "quantity": 1.0,
+          "unit": "càs",
+          "grams": 15.0
+        },
+        {
+          "raw": "- Bagel 1 u",
+          "name": "Bagel",
+          "quantity": 1.0,
+          "unit": "u",
+          "grams": null
+        }
+      ],
+      "servings": 1,
+      "source_pdf": "Plan alimentaire 4.PDF",
+      "page_number": 13
+    },
+    {
+      "title": "Blanc de Poulet Farci aux Fromages",
+      "steps": [
+        "Assaisonnez le poulet avec du sel, du poivre et du paprika fumé.",
+        "Dans un bol, mélangez le fromage à tartiner, le parmesan, la feta, les épinards hachés et les tomates séchées hachées.",
+        "Fendre les blancs de poulet en leur milieu pour former une poche et les remplir avec le mélange de fromage. Refermez avec des cure-dents.",
+        "Chauffez l'huile dans une poêle à feu moyen. Cuire le poulet farci jusqu'à ce qu'il soit cuit.",
+        "Accompagné du légume de votre choix (cru ou cuit). Fromages"
+      ],
+      "step_count": 5,
+      "ingredients": [
+        {
+          "raw": "- Blanc de poulet 150 g",
+          "name": "Blanc de poulet",
+          "quantity": 150.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Huile au choix 0,5 càc",
+          "name": "Huile au choix",
+          "quantity": 0.5,
+          "unit": "càc",
+          "grams": 2.25
+        },
+        {
+          "raw": "- Epinard frais 50 g",
+          "name": "Epinard frais",
+          "quantity": 50.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Feta 20 g",
+          "name": "Feta",
+          "quantity": 20.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Tomates séchées 10 g",
+          "name": "Tomates séchées",
+          "quantity": 10.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Parmesan 0,5 càs (2,5 g)",
+          "name": "Parmesan",
+          "quantity": 0.5,
+          "unit": "càs",
+          "grams": 2.5
+        },
+        {
+          "raw": "- Paprika fumé 0,5 càc",
+          "name": "Paprika fumé",
+          "quantity": 0.5,
+          "unit": "càc",
+          "grams": 1.15
+        },
+        {
+          "raw": "- Légumes au choix 100 g",
+          "name": "Légumes au choix",
+          "quantity": 100.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Fromage à tartiner 30 g",
+          "name": "Fromage à tartiner",
+          "quantity": 30.0,
+          "unit": "g",
+          "grams": null
+        }
+      ],
+      "servings": 1,
+      "source_pdf": "Plan alimentaire 1.pdf",
+      "page_number": 35,
+      "source_pdf_all": [
+        "Plan alimentaire 1.pdf",
+        "Plan alimentaire 1.PDF"
+      ]
+    },
+    {
+      "title": "Bol de Légumineuses",
+      "steps": [
+        "Cuire le couscous comme indiqué sur les instructions du paquet.",
+        "Coupez la courgette en dés. Chauffez l'huile dans une poêle à feu moyen et faire sauter l'ail haché jusqu'à saisi, environ 30 secondes.",
+        "Ajoutez la courgette coupée en dés à la poêle et cuire encore jusqu'à ce qu'elle soit tendre. (Ajoutez un peu d'eau si cela accroche).",
+        "Ajoutez les haricots rouges et les pois chiches cuits égouttés à la poêle et mélangez.",
+        "Versez la sauce tomate et cuire jusqu'à ce que le tout soit chaud, environ 2-3 minutes.",
+        "Assemblez le bol en mettant le couscous égoutté dans un plat et en ajoutant le mélange de courgette, haricots et pois chiches. Salez, poivrez et garnir de persil frais ou autre herbe au choix."
+      ],
+      "step_count": 6,
+      "ingredients": [
+        {
+          "raw": "- Courgette 0,5 u (100 g)",
+          "name": "Courgette",
+          "quantity": 0.5,
+          "unit": "u",
+          "grams": 100.0
+        },
+        {
+          "raw": "- Huile au choix 0,5 càs",
+          "name": "Huile au choix",
+          "quantity": 0.5,
+          "unit": "càs",
+          "grams": 6.75
+        },
+        {
+          "raw": "- Persil frais 1 càs",
+          "name": "Persil frais",
+          "quantity": 1.0,
+          "unit": "càs",
+          "grams": 3.0
+        },
+        {
+          "raw": "- Pois chiche, boîte 100 g",
+          "name": "Pois chiche, boîte",
+          "quantity": 100.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Haricots rouges, boîte 100 g",
+          "name": "Haricots rouges, boîte",
+          "quantity": 100.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Sauce tomate 50 g",
+          "name": "Sauce tomate",
+          "quantity": 50.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Couscous, cru 30 g",
+          "name": "Couscous, cru",
+          "quantity": 30.0,
+          "unit": "g",
+          "grams": null
+        }
+      ],
+      "servings": 1,
+      "source_pdf": "Plan alimentaire 4.PDF",
+      "page_number": 19
+    },
+    {
+      "title": "Boulettes de Viande Marocaines",
+      "steps": [
+        "Gingembre poudre 0,5 càc- Tomates concassées 100 g",
+        "Faites gonfler le couscous dans un bol d'eau chaude jusqu'à ce qu'il soit gonflé, puis égrenez-le à la fourchette.",
+        "Mélangez l'oignon haché, l'ail, la coriandre, le persil plat, le poivron rouge, le paprika, la cannelle, le gingembre, le sel et le poivre.",
+        "Incorporez la viande hachée avec une cuillère à soupe de mélange d'épices.",
+        "Formez des boulettes à la main.",
+        "Faites saisir les boulettes dans une poêle antiadhésive chaude avec un peu d'huile pendant environ 4 minutes de chaque côté.",
+        "Ajoutez la tomate concassée et le reste de base aromatique dans la poêle, cuire environ 10 minutes.",
+        "Ajoutez un œuf et couvrez, cuire encore 6 minutes avant de servir avec le couscous. avec Couscous"
+      ],
+      "step_count": 8,
+      "ingredients": [
+        {
+          "raw": "- Oeuf, gros 1 u",
+          "name": "Oeuf, gros",
+          "quantity": 1.0,
+          "unit": "u",
+          "grams": null
+        },
+        {
+          "raw": "- Poivron 0,25 u",
+          "name": "Poivron",
+          "quantity": 0.25,
+          "unit": "u",
+          "grams": null
+        },
+        {
+          "raw": "- Oignon 0,25 u",
+          "name": "Oignon",
+          "quantity": 0.25,
+          "unit": "u",
+          "grams": null
+        },
+        {
+          "raw": "- Huile au choix 0,5 càc",
+          "name": "Huile au choix",
+          "quantity": 0.5,
+          "unit": "càc",
+          "grams": 2.25
+        },
+        {
+          "raw": "- Paprika 1 càc",
+          "name": "Paprika",
+          "quantity": 1.0,
+          "unit": "càc",
+          "grams": 2.3
+        },
+        {
+          "raw": "- Persil frais 0,5 càc",
+          "name": "Persil frais",
+          "quantity": 0.5,
+          "unit": "càc",
+          "grams": 0.5
+        },
+        {
+          "raw": "- Boeuf 5%, haché 80 g",
+          "name": "Boeuf 5%, haché",
+          "quantity": 80.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Couscous, cru 50 g",
+          "name": "Couscous, cru",
+          "quantity": 50.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Gingembre poudre 0,5 càc",
+          "name": "Gingembre poudre",
+          "quantity": 0.5,
+          "unit": "càc",
+          "grams": 1.0
+        },
+        {
+          "raw": "- Tomates concassées 100 g",
+          "name": "Tomates concassées",
+          "quantity": 100.0,
+          "unit": "g",
+          "grams": null
+        }
+      ],
+      "servings": 1,
+      "source_pdf": "Plan alimentaire 1.pdf",
+      "page_number": 36,
+      "source_pdf_all": [
+        "Plan alimentaire 1.pdf",
+        "Plan alimentaire 1.PDF"
+      ]
+    },
+    {
+      "title": "Brouillé de Poulet et Légumes Sautés",
+      "steps": [
+        "Ail en poudre 0,5 càc- Blanc d'oeuf 2 u (80 ml)",
+        "Chauffez l'huile dans une poêle à feu moyen-élevé. Assaisonnez le poulet avec du sel et du poivre et faites cuire jusqu'à ce qu'il soit doré, environ 5-7 minutes, puis réservez.",
+        "Dans la même poêle, ajoutez l'ail et faites cuire environ 30 secondes. Ajoutez ensuite les poivrons en tranches, le brocoli coupé en petits fleurons et les oignons, et faites cuire 4-5 minutes jusqu'à ce qu'ils soient tendres.",
+        "Remettez le poulet dans la poêle et faites cuire encore 2-3 minutes. Assaisonnez avec les épices de votre choix. Poussez tout sur un côté de la poêle, ajoutez les blancs d'œufs et brouillez jusqu'à ce qu'ils soient complètement cuit. Mélangez avec le reste des ingrédients dans la poêle.",
+        "Saupoudrez de fromage parmesan avant de servir. Sautés"
+      ],
+      "step_count": 5,
+      "ingredients": [
+        {
+          "raw": "- Blanc de poulet 130 g",
+          "name": "Blanc de poulet",
+          "quantity": 130.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Poivron, haché 0,5 u",
+          "name": "Poivron, haché",
+          "quantity": 0.5,
+          "unit": "u",
+          "grams": null
+        },
+        {
+          "raw": "- Brocoli 100 g",
+          "name": "Brocoli",
+          "quantity": 100.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Oignon, lamelles 0,5 u",
+          "name": "Oignon, lamelles",
+          "quantity": 0.5,
+          "unit": "u",
+          "grams": null
+        },
+        {
+          "raw": "- Huile au choix 1 càs",
+          "name": "Huile au choix",
+          "quantity": 1.0,
+          "unit": "càs",
+          "grams": 13.5
+        },
+        {
+          "raw": "- Parmesan râpé 1,5 càs (7,5 g)",
+          "name": "Parmesan râpé",
+          "quantity": 1.5,
+          "unit": "càs",
+          "grams": 7.5
+        },
+        {
+          "raw": "- Ail en poudre 0,5 càc",
+          "name": "Ail en poudre",
+          "quantity": 0.5,
+          "unit": "càc",
+          "grams": 2.5
+        }
+      ],
+      "servings": 1,
+      "source_pdf": "Plan alimentaire 4.PDF",
+      "page_number": 29
+    },
+    {
+      "title": "Bruschetta au Thon et à la Roquette",
+      "steps": [
+        "Toastez le pain complet dans le grille-pain.",
+        "Dans un petit bol, mélangez le thon émietté et le fromage à tartiner (type St Moret). Salez et poivrez. Étalez la moutarde de Dijon sur la tartine grillée, puis disposez le mélange thon-fromage frais et la roquette"
+      ],
+      "step_count": 2,
+      "ingredients": [
+        {
+          "raw": "- Roquette 20 g",
+          "name": "Roquette",
+          "quantity": 20.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Pain complet 1 tr (32 g)",
+          "name": "Pain complet",
+          "quantity": 1.0,
+          "unit": "tr",
+          "grams": 32.0
+        },
+        {
+          "raw": "- Moutarde de Dijon 0,5 càc",
+          "name": "Moutarde de Dijon",
+          "quantity": 0.5,
+          "unit": "càc",
+          "grams": 2.5
+        },
+        {
+          "raw": "- Thon en boîte 80 g",
+          "name": "Thon en boîte",
+          "quantity": 80.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Fromage à tartiner 35 g",
+          "name": "Fromage à tartiner",
+          "quantity": 35.0,
+          "unit": "g",
+          "grams": null
+        }
+      ],
+      "servings": 1,
+      "source_pdf": "Plan alimentaire 1.pdf",
+      "page_number": 39,
+      "source_pdf_all": [
+        "Plan alimentaire 1.pdf",
+        "Plan alimentaire 1.PDF"
+      ]
+    },
+    {
+      "title": "Buddha Bowl de Crevettes",
+      "steps": [
+        "Faites cuire le riz selon les instructions indiquées sur l'emballage. Une fois cuit, laissez-le refroidir.",
+        "Pendant ce temps, faites des tagliatelles de concombre et carotte avec un économe (ou coupez en petits bâtonnets). Décortiquez les crevettes cuites. Pour la sauce, mélangez la sauce soja et le miel dans un petit bol.",
+        "Préparez un bol ou une assiette creuse en y mettant le riz cuit. Répartissez les crevettes décortiquées et les légumes dessus. Versez la sauce. Servez immédiatement."
+      ],
+      "step_count": 3,
+      "ingredients": [
+        {
+          "raw": "- Carotte 1,5 u",
+          "name": "Carotte",
+          "quantity": 1.5,
+          "unit": "u",
+          "grams": null
+        },
+        {
+          "raw": "- Concombre, lamelles 1 u",
+          "name": "Concombre, lamelles",
+          "quantity": 1.0,
+          "unit": "u",
+          "grams": null
+        },
+        {
+          "raw": "- Miel (ou agave) 2 càc",
+          "name": "Miel (ou agave)",
+          "quantity": 2.0,
+          "unit": "càc",
+          "grams": 13.4
+        },
+        {
+          "raw": "- Riz, cru 45 g",
+          "name": "Riz, cru",
+          "quantity": 45.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Sauce soja 3 càs",
+          "name": "Sauce soja",
+          "quantity": 3.0,
+          "unit": "càs",
+          "grams": 48.0
+        },
+        {
+          "raw": "- Crevettes cuites 150 g",
+          "name": "Crevettes cuites",
+          "quantity": 150.0,
+          "unit": "g",
+          "grams": null
+        }
+      ],
+      "servings": 1,
+      "source_pdf": "Plan alimentaire 4.PDF",
+      "page_number": 34
+    },
+    {
+      "title": "Cheesecake protéiné aux fruits",
+      "steps": [
+        "Skyr nature 200 g- Maïzena 1 càc (4 g)",
+        "Préchauffez votre four à 180°C (350°F).",
+        "Dans un bol, mélangez le skyr, la maïzena, l'œuf et le miel jusqu'à obtenir un mélange homogène.",
+        "Incorporez délicatement les baies.",
+        "Versez le mélange dans un plat de cuisson. Enfournez pendant 20 minutes, ajustez le temps selon votre four.",
+        "Réfrigérez au moins deux heures avant de servir.Cheesecake protéiné aux fruits rouges"
+      ],
+      "step_count": 6,
+      "ingredients": [
+        {
+          "raw": "- Oeuf, gros 1 u",
+          "name": "Oeuf, gros",
+          "quantity": 1.0,
+          "unit": "u",
+          "grams": null
+        },
+        {
+          "raw": "- Miel (ou agave) 2 càc",
+          "name": "Miel (ou agave)",
+          "quantity": 2.0,
+          "unit": "càc",
+          "grams": 13.4
+        },
+        {
+          "raw": "- Fruits rouges 1 càs (10 g)",
+          "name": "Fruits rouges",
+          "quantity": 1.0,
+          "unit": "càs",
+          "grams": 10.0
+        },
+        {
+          "raw": "- Skyr nature 200 g",
+          "name": "Skyr nature",
+          "quantity": 200.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Maïzena 1 càc (4 g)",
+          "name": "Maïzena",
+          "quantity": 1.0,
+          "unit": "càc",
+          "grams": 4.0
+        }
+      ],
+      "servings": 1,
+      "source_pdf": "Plan alimentaire 4.PDF",
+      "page_number": 15
+    },
+    {
+      "title": "Couscous aux Légumes et Cumin",
+      "steps": [
+        "Dans un bol, versez la semoule et ajoutez le même volume d'eau bouillante salée. Couvrez et laissez reposer 5 minutes, puis égrainez avec une fourchette.",
+        "Épluchez et émincez l'oignon, coupez la courgette en demi-rondelles et la carotte en fines rondelles.",
+        "Chauffez une poêle légèrement huilée et faites revenir l'oignon pendant 2 minutes.",
+        "Ajoutez la carotte et faites cuire pendant 3 minutes avant d'ajouter la courgette.",
+        "Assaisonnez avec le cumin, du sel et du poivre. Couvrez et laissez cuire encore 10 minutes jusqu'à ce que les légumes soient légèrement croquants.",
+        "Pendant ce temps, faites cuire l'œuf mollet pendant 6 minutes dans de l'eau bouillante, écalez et déposez-le sur la semoule avant de servir.",
+        "Mélangez la semoule avec la poêlée de légumes et parsemez de persil ciselé. avec Œuf Mollet"
+      ],
+      "step_count": 7,
+      "ingredients": [
+        {
+          "raw": "- Oeuf, gros 2 u",
+          "name": "Oeuf, gros",
+          "quantity": 2.0,
+          "unit": "u",
+          "grams": null
+        },
+        {
+          "raw": "- Carotte 1,5 u",
+          "name": "Carotte",
+          "quantity": 1.5,
+          "unit": "u",
+          "grams": null
+        },
+        {
+          "raw": "- Oignon, lamelles 0,5 u",
+          "name": "Oignon, lamelles",
+          "quantity": 0.5,
+          "unit": "u",
+          "grams": null
+        },
+        {
+          "raw": "- Courgette 1 u (200 g)",
+          "name": "Courgette",
+          "quantity": 1.0,
+          "unit": "u",
+          "grams": 200.0
+        },
+        {
+          "raw": "- Huile au choix 1 càc",
+          "name": "Huile au choix",
+          "quantity": 1.0,
+          "unit": "càc",
+          "grams": 4.5
+        },
+        {
+          "raw": "- Cumin 1 càc",
+          "name": "Cumin",
+          "quantity": 1.0,
+          "unit": "càc",
+          "grams": 5.0
+        },
+        {
+          "raw": "- Persil frais 1 càc",
+          "name": "Persil frais",
+          "quantity": 1.0,
+          "unit": "càc",
+          "grams": 1.0
+        },
+        {
+          "raw": "- Couscous, cru 50 g",
+          "name": "Couscous, cru",
+          "quantity": 50.0,
+          "unit": "g",
+          "grams": null
+        }
+      ],
+      "servings": 1,
+      "source_pdf": "Plan alimentaire 3.PDF",
+      "page_number": 34
+    },
+    {
+      "title": "Crêpe au Saumon Fumé",
+      "steps": [
+        "Mélangez la farine d'avoine, l'œuf et le lait jusqu'à obtenir une consistance lisse. (Ajustez un peu la quantité de lait si beoin). Ajoutez une pincée de sel.",
+        "Chauffez une poêle antiadhésive légèrement huilée à feu moyen. Versez 1/4 de tasse de pâte, étalez uniformément et faites cuire jusqu'à ce que les bords se soulèvent. Retournez et faites cuire encore 1-2 minutes.Recommencez jusqu'à épuisement de la pâte.",
+        "Étalez de fromage blanc sur la crêpe puis ajoutez le saumon fumé et pliez la crêpe"
+      ],
+      "step_count": 3,
+      "ingredients": [
+        {
+          "raw": "- Oeuf, gros 1 u",
+          "name": "Oeuf, gros",
+          "quantity": 1.0,
+          "unit": "u",
+          "grams": null
+        },
+        {
+          "raw": "- Huile au choix 0,5 càc",
+          "name": "Huile au choix",
+          "quantity": 0.5,
+          "unit": "càc",
+          "grams": 2.25
+        },
+        {
+          "raw": "- Saumon fumé 70 g",
+          "name": "Saumon fumé",
+          "quantity": 70.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Fromage blanc 0% 1 càs (13 g)",
+          "name": "Fromage blanc 0%",
+          "quantity": 1.0,
+          "unit": "càs",
+          "grams": 13.0
+        },
+        {
+          "raw": "- Farine d'avoine 40 g",
+          "name": "Farine d'avoine",
+          "quantity": 40.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Lait végétal 80 ml",
+          "name": "Lait végétal",
+          "quantity": 80.0,
+          "unit": "ml",
+          "grams": null
+        }
+      ],
+      "servings": 1,
+      "source_pdf": "Plan alimentaire 4.PDF",
+      "page_number": 28
+    },
+    {
+      "title": "Crêpes Salées à la Dinde et au Houmous",
+      "steps": [
+        "Mélangez la farine, l'œuf et le lait jusqu'à obtenir une pâte lisse. Ajustez la texture avec un peu d'eau si besoin. Ajoutez une pincée de sel.",
+        "Chauffez une poêle antiadhésive à feu moyen. Versez 1/4 de tasse de pâte, étalez uniformément, cuisez jusqu'à ce que les bords se soulèvent. Retournez, et cuisez encore 1-2 minutes. Étalez le houmous sur le crêpe, ajoutez une tranche de blanc de dinde et pliez"
+      ],
+      "step_count": 2,
+      "ingredients": [
+        {
+          "raw": "- Dinde, tranche 40 g",
+          "name": "Dinde, tranche",
+          "quantity": 40.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Oeuf, gros 1 u",
+          "name": "Oeuf, gros",
+          "quantity": 1.0,
+          "unit": "u",
+          "grams": null
+        },
+        {
+          "raw": "- Huile au choix 1 càc",
+          "name": "Huile au choix",
+          "quantity": 1.0,
+          "unit": "càc",
+          "grams": 4.5
+        },
+        {
+          "raw": "- Farine d'avoine 50 g",
+          "name": "Farine d'avoine",
+          "quantity": 50.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Houmous 1 càs (15 g)",
+          "name": "Houmous",
+          "quantity": 1.0,
+          "unit": "càs",
+          "grams": 15.0
+        },
+        {
+          "raw": "- Lait végétal 100 ml",
+          "name": "Lait végétal",
+          "quantity": 100.0,
+          "unit": "ml",
+          "grams": null
+        }
+      ],
+      "servings": 1,
+      "source_pdf": "Plan alimentaire 1.pdf",
+      "page_number": 8,
+      "source_pdf_all": [
+        "Plan alimentaire 1.pdf",
+        "Plan alimentaire 1.PDF"
+      ]
+    },
+    {
+      "title": "Ecrasé de Pomme de Terre aux Poireaux et Émincés Végétaux",
+      "steps": [
+        "Pomme de terre 1,5 u (315 g)- Huile au choix 1,5 càc- Poireau 1 u Ail frais 1 gousse- Crème végétale 1 càs (15 ml)- Émincés végétaux 125 g",
+        "Épluchez et coupez la pomme de terre en morceaux. Faites-la cuire dans de l'eau bouillante salée jusqu'à ce qu'elle soit tendre.",
+        "Pendant ce temps, épluchez la gousse d'ail, lavez et coupez le poireau en rondelles. Chauffez l'huile dans une poêle et faites revenir le poireau tranché et l'ail pressé jusqu'à ce qu'il soit tendre.",
+        "Ajoutez les émincés végétaux dans la poêle et faites-les revenir jusqu'à ce qu'ils soient dorés.",
+        "Égouttez les morceaux de pomme de terre cuits et écrasez-les à la fourchette ou au presse- purée. Assaisonnez avec du sel et du poivre. Incorporez la crème végétale et mélangez. Servir l'écrasé de pomme de terre avec les émincés végétaux et le poireau. Poireaux et Émincés Végétaux"
+      ],
+      "step_count": 5,
+      "ingredients": [
+        {
+          "raw": "- Pomme de terre 1,5 u (315 g)",
+          "name": "Pomme de terre",
+          "quantity": 1.5,
+          "unit": "u",
+          "grams": 315.0
+        },
+        {
+          "raw": "- Huile au choix 1,5 càc",
+          "name": "Huile au choix",
+          "quantity": 1.5,
+          "unit": "càc",
+          "grams": 6.75
+        },
+        {
+          "raw": "- Poireau 1 u",
+          "name": "Poireau",
+          "quantity": 1.0,
+          "unit": "u",
+          "grams": null
+        },
+        {
+          "raw": "- Émincés végétaux 125 g",
+          "name": "Émincés végétaux",
+          "quantity": 125.0,
+          "unit": "g",
+          "grams": null
+        }
+      ],
+      "servings": 1,
+      "source_pdf": "Plan alimentaire 2.PDF",
+      "page_number": 9
+    },
+    {
+      "title": "English Muffin au Saumon, Oeufs Brouillés et Cream Cheese",
+      "steps": [
+        "Fromage à tartiner 30 g- Muffin anglais 1 u (62 g)",
+        "Coupez en deux le muffin et le faire griller au grille pain.",
+        "Dans une poêle antiadhésive, chauffez l'huile et faites cuire les oeufs avec la moitié de la crème. Bien remuez. Salez, poivrez. Étalez le cream cheese, placez les oeufs brouillés et le saumon, puis dégustez"
+      ],
+      "step_count": 3,
+      "ingredients": [
+        {
+          "raw": "- Oeuf, gros 1 u",
+          "name": "Oeuf, gros",
+          "quantity": 1.0,
+          "unit": "u",
+          "grams": null
+        },
+        {
+          "raw": "- Huile au choix 1 càc",
+          "name": "Huile au choix",
+          "quantity": 1.0,
+          "unit": "càc",
+          "grams": 4.5
+        },
+        {
+          "raw": "- Saumon fumé 30 g",
+          "name": "Saumon fumé",
+          "quantity": 30.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Fromage à tartiner 30 g",
+          "name": "Fromage à tartiner",
+          "quantity": 30.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Muffin anglais 1 u (62 g)",
+          "name": "Muffin anglais",
+          "quantity": 1.0,
+          "unit": "u",
+          "grams": 62.0
+        }
+      ],
+      "servings": 1,
+      "source_pdf": "Plan alimentaire 4.PDF",
+      "page_number": 33
+    },
+    {
+      "title": "English Muffin Oeuf-Bacon",
+      "steps": [
+        "Coupez en deux le muffin et le faire griller au grille pain.",
+        "Dans une poêle antiadhésive, faites cuire le bacon. Une fois cuit, mettre de côté et cuire les oeufs dans la même poêle. Bien remuez. Salez, poivrez.",
+        "Placez l'emmental, les oeufs brouillés et le bacon sur le muffin et dégustez"
+      ],
+      "step_count": 3,
+      "ingredients": [
+        {
+          "raw": "- Oeuf, gros 2 u",
+          "name": "Oeuf, gros",
+          "quantity": 2.0,
+          "unit": "u",
+          "grams": null
+        },
+        {
+          "raw": "- Emmental 2 tr (20 g)",
+          "name": "Emmental",
+          "quantity": 2.0,
+          "unit": "tr",
+          "grams": 20.0
+        },
+        {
+          "raw": "- Lard poirtine 2 tr (20 g)",
+          "name": "Lard poirtine",
+          "quantity": 2.0,
+          "unit": "tr",
+          "grams": 20.0
+        },
+        {
+          "raw": "- Muffin anglais 1 u (62 g)",
+          "name": "Muffin anglais",
+          "quantity": 1.0,
+          "unit": "u",
+          "grams": 62.0
+        }
+      ],
+      "servings": 1,
+      "source_pdf": "Plan alimentaire 1.pdf",
+      "page_number": 23,
+      "source_pdf_all": [
+        "Plan alimentaire 1.pdf",
+        "Plan alimentaire 1.PDF"
+      ]
+    },
+    {
+      "title": "Escalope de Porc avec Poêlée de Pommes de Terre et Champignons",
+      "steps": [
+        "Pomme de terre 225 g- Huile au choix 1 càc- Champignon, tr. 200 g Crème fraîche 15% 3 càs (45 g)- Porc, escalope 110 g",
+        "Lavez vos pommes de terre et coupez-les en petits morceaux.",
+        "Faites chauffer la moitié de l'huile dans une poêle antiadhésive et faire cuire les pommes de terre jusqu'à ce qu'elles soient dorées.",
+        "Une fois presque cuites, ajoutez les champignons coupés en tranches, puis la crème.",
+        "Assaisonnez de sel, de poivre et un peu de romarin si vous le souhaitez.",
+        "Pendant ce temps là, assaisonnez l'escalope de porc avec du sel et du poivre. Puis huilez légèrement une poêle antiadhésive avec le reste de l'huile à feu moyen.",
+        "Ajoutez le porc dans la poêle et faites cuire environ 2 à 3 minutes de chaque côté sur feu vif, jusqu'à bien cuit et doré.",
+        "Une fois le tout cuit, assemblez votre assiette avec l'escalope de porc poêlée, les pommes de terre et les champignons à la crème, ajustez l'assaisonnement à votre goût.",
+        "Pommes de Terre et Champignons"
+      ],
+      "step_count": 9,
+      "ingredients": [
+        {
+          "raw": "- Pomme de terre 225 g",
+          "name": "Pomme de terre",
+          "quantity": 225.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Huile au choix 1 càc",
+          "name": "Huile au choix",
+          "quantity": 1.0,
+          "unit": "càc",
+          "grams": 4.5
+        },
+        {
+          "raw": "- Champignon, tr. 200 g",
+          "name": "Champignon, tr.",
+          "quantity": 200.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Crème fraîche 15% 3 càs (45 g)",
+          "name": "Crème fraîche 15%",
+          "quantity": 3.0,
+          "unit": "càs",
+          "grams": 45.0
+        },
+        {
+          "raw": "- Porc, escalope 110 g",
+          "name": "Porc, escalope",
+          "quantity": 110.0,
+          "unit": "g",
+          "grams": null
+        }
+      ],
+      "servings": 1,
+      "source_pdf": "Plan alimentaire 3.PDF",
+      "page_number": 10
+    },
+    {
+      "title": "Galette Jambon, Oeuf et Fromage",
+      "steps": [
+        "Coupez la tomate en rondelles. Placez la crêpe au sarrasin dans une poêle chaude.",
+        "Saupoudrez de fromage râpé sur la crêpe en forme de couronne. Cassez un oeuf au centre.",
+        "Ajoutez le jambon coupé en morceaux tout autour et faites cuire jusqu'à ce que le blanc d'œuf soit cuit. Salez, poivrez. Pliez les bords de la crêpe pour former un carré et dégustez."
+      ],
+      "step_count": 3,
+      "ingredients": [
+        {
+          "raw": "- Oeuf, gros 2 u",
+          "name": "Oeuf, gros",
+          "quantity": 2.0,
+          "unit": "u",
+          "grams": null
+        },
+        {
+          "raw": "- Tomate 2 u",
+          "name": "Tomate",
+          "quantity": 2.0,
+          "unit": "u",
+          "grams": null
+        },
+        {
+          "raw": "- Emmental, râpé 4 càs (20 g)",
+          "name": "Emmental, râpé",
+          "quantity": 4.0,
+          "unit": "càs",
+          "grams": 20.0
+        },
+        {
+          "raw": "- Jambon 3 tr (120 g)",
+          "name": "Jambon",
+          "quantity": 3.0,
+          "unit": "tr",
+          "grams": 120.0
+        },
+        {
+          "raw": "- Crêpe au sarrasin 2 u (100 g)",
+          "name": "Crêpe au sarrasin",
+          "quantity": 2.0,
+          "unit": "u",
+          "grams": 100.0
+        }
+      ],
+      "servings": 1,
+      "source_pdf": "Plan alimentaire 2.PDF",
+      "page_number": 25
+    },
+    {
+      "title": "Galettes Végétariennes Protéinées Maison et Poireaux à la Crème",
+      "steps": [
+        "Coupez le poireau en rondelles et faites-le cuire dans une poêle antiadhésive légèrement huilée avec la moitié de l'huile. Lorsqu'il est presque tendre, ajoutez la crème et laissez mijoter à feu doux.",
+        "Pendant ce temps, dans un mixeur, combinez les lentilles, les pois chiches, les flocons d'avoine, l'œuf, la moutarde, l'ail émincé et les épices. Mixez jusqu'à obtenir une pâte homogène. Si le mélange est trop sec, ajoutez un peu d'eau pour lier. Goûtez et ajustez l'assaisonnement avec du sel, du poivre et des épices selon votre préférence.",
+        "Formez le mélange en une ou plusieurs galettes avec vos mains. Chauffez une autre poêle antiadhésive avec le reste de l'huile et faites cuire la galette environ 5-6 minutes de chaque côté, jusqu'à ce qu'elle soit dorée et bien cuite.",
+        "Accompagnez votre steak végétal de la poêlée de poireaux fondants. Maison et Poireaux à la Crème"
+      ],
+      "step_count": 4,
+      "ingredients": [
+        {
+          "raw": "- Oeuf, gros 1 u",
+          "name": "Oeuf, gros",
+          "quantity": 1.0,
+          "unit": "u",
+          "grams": null
+        },
+        {
+          "raw": "- Huile au choix 1 càc",
+          "name": "Huile au choix",
+          "quantity": 1.0,
+          "unit": "càc",
+          "grams": 4.5
+        },
+        {
+          "raw": "- Poireau 0,5 u",
+          "name": "Poireau",
+          "quantity": 0.5,
+          "unit": "u",
+          "grams": null
+        },
+        {
+          "raw": "- Pois chiche, boîte 30 g",
+          "name": "Pois chiche, boîte",
+          "quantity": 30.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Flocons d'avoine 30 g",
+          "name": "Flocons d'avoine",
+          "quantity": 30.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Moutarde de Dijon 0,5 càc",
+          "name": "Moutarde de Dijon",
+          "quantity": 0.5,
+          "unit": "càc",
+          "grams": 2.5
+        },
+        {
+          "raw": "- Paprika fumé 0,5 càc",
+          "name": "Paprika fumé",
+          "quantity": 0.5,
+          "unit": "càc",
+          "grams": 1.15
+        },
+        {
+          "raw": "- Lentilles corail, cru 40 g",
+          "name": "Lentilles corail, cru",
+          "quantity": 40.0,
+          "unit": "g",
+          "grams": null
+        }
+      ],
+      "servings": 1,
+      "source_pdf": "Plan alimentaire 1.pdf",
+      "page_number": 31,
+      "source_pdf_all": [
+        "Plan alimentaire 1.pdf",
+        "Plan alimentaire 1.PDF"
+      ]
+    },
+    {
+      "title": "Gnocchis Crémeux aux Champignons et Lardons",
+      "steps": [
+        "Lavez et coupez les champignons en tranches. Émincez l'ail.",
+        "Dans une poêle antiadhésive à feu vif, cuire les lardons 2-3 minutes.",
+        "Enlevez l'excédent de gras et ajoutez les champignons et l'ail dans la poêle et faites-les revenir 3-4 min en remuant régulièrement.",
+        "Ajoutez les gnocchis et faites revenir le tout 2-3 min. Enfin, ajoutez la crème et le parmesan. Salez, poivrez, mélangez bien et servez. Champignons et Lardons"
+      ],
+      "step_count": 4,
+      "ingredients": [
+        {
+          "raw": "- Champignon 200 g",
+          "name": "Champignon",
+          "quantity": 200.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Parmesan râpé 20 g",
+          "name": "Parmesan râpé",
+          "quantity": 20.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Crème fraîche 15% 40 g",
+          "name": "Crème fraîche 15%",
+          "quantity": 40.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Lardons 65 g",
+          "name": "Lardons",
+          "quantity": 65.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Gnocchis 120 g",
+          "name": "Gnocchis",
+          "quantity": 120.0,
+          "unit": "g",
+          "grams": null
+        }
+      ],
+      "servings": 1,
+      "source_pdf": "Plan alimentaire 2.PDF",
+      "page_number": 29
+    },
+    {
+      "title": "Gnocchis Crémeux aux Poireaux et",
+      "steps": [
+        "Coupez le poireau en rondelles. Hâchez l'oignon.",
+        "Dans une poêle antiadhésive chauffez l'huile et cuire l'oignon et les poireaux.",
+        "Une fois cuit, ajoutez la dinde coupée en morceaux et les gnocchis. Enfin, ajoutez la crème et salez, poivrez ou ajoutez les épices de votre choix. Mélangez bien et servez. Dinde"
+      ],
+      "step_count": 3,
+      "ingredients": [
+        {
+          "raw": "- Dinde 100 g",
+          "name": "Dinde",
+          "quantity": 100.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Oignon 0,5 u",
+          "name": "Oignon",
+          "quantity": 0.5,
+          "unit": "u",
+          "grams": null
+        },
+        {
+          "raw": "- Huile au choix 2 càc",
+          "name": "Huile au choix",
+          "quantity": 2.0,
+          "unit": "càc",
+          "grams": 9.0
+        },
+        {
+          "raw": "- Poireau 1,5 u",
+          "name": "Poireau",
+          "quantity": 1.5,
+          "unit": "u",
+          "grams": null
+        },
+        {
+          "raw": "- Crème végétale 50 ml",
+          "name": "Crème végétale",
+          "quantity": 50.0,
+          "unit": "ml",
+          "grams": null
+        },
+        {
+          "raw": "- Gnocchis 70 g",
+          "name": "Gnocchis",
+          "quantity": 70.0,
+          "unit": "g",
+          "grams": null
+        }
+      ],
+      "servings": 1,
+      "source_pdf": "Plan alimentaire 3.PDF",
+      "page_number": 22
+    },
+    {
+      "title": "Lait au Granola",
+      "steps": [
+        "Mettez le granola dans un bol et arrosez de lait"
+      ],
+      "step_count": 1,
+      "ingredients": [
+        {
+          "raw": "- Lait demi-écrémé 200 ml",
+          "name": "Lait demi-écrémé",
+          "quantity": 200.0,
+          "unit": "ml",
+          "grams": null
+        },
+        {
+          "raw": "- Granola au choix 5 càs (35 g)",
+          "name": "Granola au choix",
+          "quantity": 5.0,
+          "unit": "càs",
+          "grams": 35.0
+        }
+      ],
+      "servings": 1,
+      "source_pdf": "Plan alimentaire 4.PDF",
+      "page_number": 30
+    },
+    {
+      "title": "Mini Quiche Lorraine et Salade de Betteraves",
+      "steps": [
+        "Préchauffez le four à 200°C (th.7). Huilez un moule ou plat à quiche individuelle (ou multipliez les quantités par 4 pour une quiche entière).",
+        "Chauffez une poêle antiadhésive et faites revenir les dés de jambon quelques minutes.",
+        "Pendant ce temps, découpez des cercles dans votre pâtes feuilletée à l'aide d'un verre (si indiviuel). Placez la pâte dans le moule individuel et étalez un peu de moutarde dessus.",
+        "Répartissez uniformément le jambon découpé en morceaux et la moitié du fromage râpé dans le moule.",
+        "Dans un bol, fouettez ensemble l'œuf et le fromage blanc avec du sel et du poivre puis versez le mélange d'œufs sur le jambon. Parsemez du reste de fromage et cuire au four pendant 25-30 minutes.",
+        "Accompagnez d'une salade de betterave et salade verte assaisonnées au vinaigre balsamique. Betteraves"
+      ],
+      "step_count": 6,
+      "ingredients": [
+        {
+          "raw": "- Oeuf, gros 1 u",
+          "name": "Oeuf, gros",
+          "quantity": 1.0,
+          "unit": "u",
+          "grams": null
+        },
+        {
+          "raw": "- Huile au choix 0,5 càc",
+          "name": "Huile au choix",
+          "quantity": 0.5,
+          "unit": "càc",
+          "grams": 2.25
+        },
+        {
+          "raw": "- Betterave 80 g",
+          "name": "Betterave",
+          "quantity": 80.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Emmental, râpé 2 càs (10 g)",
+          "name": "Emmental, râpé",
+          "quantity": 2.0,
+          "unit": "càs",
+          "grams": 10.0
+        },
+        {
+          "raw": "- Dés de Jambon 50 g",
+          "name": "Dés de Jambon",
+          "quantity": 50.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Vinaigre bals. 0,5 càs",
+          "name": "Vinaigre bals.",
+          "quantity": 0.5,
+          "unit": "càs",
+          "grams": 8.0
+        },
+        {
+          "raw": "- Salade feuilles 30 g",
+          "name": "Salade feuilles",
+          "quantity": 30.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Moutarde de Dijon 0,25 càc",
+          "name": "Moutarde de Dijon",
+          "quantity": 0.25,
+          "unit": "càc",
+          "grams": 1.25
+        },
+        {
+          "raw": "- Fromage blanc 3% 50 g",
+          "name": "Fromage blanc 3%",
+          "quantity": 50.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Pâte feuilletée 0,25 u (25 g)",
+          "name": "Pâte feuilletée",
+          "quantity": 0.25,
+          "unit": "u",
+          "grams": 25.0
+        }
+      ],
+      "servings": 1,
+      "source_pdf": "Plan alimentaire 4.PDF",
+      "page_number": 21
+    },
+    {
+      "title": "Mugcake au Chocolat",
+      "steps": [
+        "Dans un petit bol ajoutez le chocolat avec le lait végétal et faites fondre le tout au micro-ondes pendant 45sec.",
+        "Ajoutez ensuite l’oeuf entier et mélangez. Puis versez le sucre, la poudre de cacao, la poudre à lever et la farine. Mélangez jusqu’à obtention d’une pâte homogène.",
+        "Placez votre mug dans le micro-ondes et faites cuire pendant 1min à 1000W"
+      ],
+      "step_count": 3,
+      "ingredients": [
+        {
+          "raw": "- Oeuf, gros 1 u",
+          "name": "Oeuf, gros",
+          "quantity": 1.0,
+          "unit": "u",
+          "grams": null
+        },
+        {
+          "raw": "- Chocolate 70% 2,5 tr (25 g)",
+          "name": "Chocolate 70%",
+          "quantity": 2.5,
+          "unit": "tr",
+          "grams": 25.0
+        },
+        {
+          "raw": "- Lev. chimique 0,5 càc",
+          "name": "Lev. chimique",
+          "quantity": 0.5,
+          "unit": "càc",
+          "grams": 2.5
+        },
+        {
+          "raw": "- Farine de blé 2,5 càs (19 g)",
+          "name": "Farine de blé",
+          "quantity": 2.5,
+          "unit": "càs",
+          "grams": 19.0
+        },
+        {
+          "raw": "- Cacao, poudre 1,5 càc",
+          "name": "Cacao, poudre",
+          "quantity": 1.5,
+          "unit": "càc",
+          "grams": 7.5
+        },
+        {
+          "raw": "- Sucre brun 2,5 càc (12,5 g)",
+          "name": "Sucre brun",
+          "quantity": 2.5,
+          "unit": "càc",
+          "grams": 12.5
+        }
+      ],
+      "servings": 1,
+      "source_pdf": "Plan alimentaire 2.PDF",
+      "page_number": 28
+    },
+    {
+      "title": "Nid Oeuf-Bacon",
+      "steps": [
+        "Préchauffez votre four à 200°C.",
+        "Dans un moule à muffins, disposez des tranches de bacon dans chaque moule de manière à recouvrir toute la paroi (le côté arrondi de la demi-tranche de bacon vers le haut). Ensuite, cassez délicatement les oeufs dans le nid de bacon, en prenant soin de ne pas casser le jaune d’oeuf. Pour finir, salez et poivrez à votre convenance.",
+        "Laissez cuire 5 à 10 minutes jusqu’à ce que le blanc soit figé (le jaune doit rester coulant).",
+        "Accompagnez d'une tranche de pain complet"
+      ],
+      "step_count": 4,
+      "ingredients": [
+        {
+          "raw": "- Oeuf, gros 2 u",
+          "name": "Oeuf, gros",
+          "quantity": 2.0,
+          "unit": "u",
+          "grams": null
+        },
+        {
+          "raw": "- Pain complet 2 tr (64 g)",
+          "name": "Pain complet",
+          "quantity": 2.0,
+          "unit": "tr",
+          "grams": 64.0
+        },
+        {
+          "raw": "- Lard poirtine 6 tr (60 g)",
+          "name": "Lard poirtine",
+          "quantity": 6.0,
+          "unit": "tr",
+          "grams": 60.0
+        }
+      ],
+      "servings": 1,
+      "source_pdf": "Plan alimentaire 3.PDF",
+      "page_number": 32
+    },
+    {
+      "title": "Nouilles de Courgette au Boeuf",
+      "steps": [
+        "Faites chauffer l'huile à feu moyen dans une grande poêle, une fois chaude, ajoutez l'oignon coupé en dés.",
+        "Pendant ce temps, faites des tagliatelles de courgette à l'aide d'un économe.",
+        "Une fois les oignons cuits, ajoutez les nouilles de courgettes. Ajoutez un peu d'eau si cela colle. Lorsque les courgettes sont presque cuites, ajoutez la viande hachée et faites cuire pendant environ 5 minutes. Puis, incorporez la sauce tomate et portez à ébullition, réduisez le feu et laissez mijoter pendant environ 10 minutes.",
+        "Servez chaud dans une assiette, agrémenté de parmesan râpé."
+      ],
+      "step_count": 4,
+      "ingredients": [
+        {
+          "raw": "- Oignon, haché 0,5 u",
+          "name": "Oignon, haché",
+          "quantity": 0.5,
+          "unit": "u",
+          "grams": null
+        },
+        {
+          "raw": "- Courgette, spaghettis 2 u (400 g)",
+          "name": "Courgette, spaghettis",
+          "quantity": 2.0,
+          "unit": "u",
+          "grams": 400.0
+        },
+        {
+          "raw": "- Huile au choix 1 càc",
+          "name": "Huile au choix",
+          "quantity": 1.0,
+          "unit": "càc",
+          "grams": 4.5
+        },
+        {
+          "raw": "- Parmesan râpé 1 càs (5 g)",
+          "name": "Parmesan râpé",
+          "quantity": 1.0,
+          "unit": "càs",
+          "grams": 5.0
+        },
+        {
+          "raw": "- Boeuf 5%, haché 120 g",
+          "name": "Boeuf 5%, haché",
+          "quantity": 120.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Sauce tomate 200 g",
+          "name": "Sauce tomate",
+          "quantity": 200.0,
+          "unit": "g",
+          "grams": null
+        }
+      ],
+      "servings": 1,
+      "source_pdf": "Plan alimentaire 1.pdf",
+      "page_number": 16,
+      "source_pdf_all": [
+        "Plan alimentaire 1.pdf",
+        "Plan alimentaire 1.PDF"
+      ]
+    },
+    {
+      "title": "Oeufs Brouillés aux Épinards et Tartine Houmous",
+      "steps": [
+        "Fouettez les oeufs dans un bol et assaisonner avec du sel et du poivre.",
+        "Chauffez l'huile dans une poêle antiadhésive à feu moyen. Ajoutez les tomates cerises coupées en deux et cuire jusqu'à ce qu'elles commencent à ramollir, environ 1-2 minutes. Puis, ajoutez les épinards et cuire jusqu'à ce qu'ils soient flétris, environ 1 minute.",
+        "Versez les oeufs sur les épinards et les tomates et remuer doucement jusqu'à ce que les oeufs soient complètement cuits. Salez, poivrez et assaisonnez au goût.",
+        "Servir les oeufs brouillés avec une tartine et du houmous. Tartine Houmous"
+      ],
+      "step_count": 4,
+      "ingredients": [
+        {
+          "raw": "- Oeuf, gros 3 u",
+          "name": "Oeuf, gros",
+          "quantity": 3.0,
+          "unit": "u",
+          "grams": null
+        },
+        {
+          "raw": "- Huile au choix 1 càc",
+          "name": "Huile au choix",
+          "quantity": 1.0,
+          "unit": "càc",
+          "grams": 4.5
+        },
+        {
+          "raw": "- Epinard frais 50 g",
+          "name": "Epinard frais",
+          "quantity": 50.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Pain complet 1,5 tr (48 g)",
+          "name": "Pain complet",
+          "quantity": 1.5,
+          "unit": "tr",
+          "grams": 48.0
+        },
+        {
+          "raw": "- Tomate cerise 90 g",
+          "name": "Tomate cerise",
+          "quantity": 90.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Houmous 4 càs (60 g)",
+          "name": "Houmous",
+          "quantity": 4.0,
+          "unit": "càs",
+          "grams": 60.0
+        }
+      ],
+      "servings": 1,
+      "source_pdf": "Plan alimentaire 2.PDF",
+      "page_number": 17
+    },
+    {
+      "title": "Omelette aux Épinards",
+      "steps": [
+        "Dans une poêle antiadhésive à feu moyen, chauffer l'huile; cuire les épinards frais et l'ail haché jusqu'à ce que les épinards soient totalement flétris.",
+        "Dans un bol, fouettez les oeufs avec la crème et assaisonnez à votre goût. Versez le mélange d'oeufs sur les épinards. Salez, poivrez. Réduire le feu à moyen-doux. Lorsque les oeufs commencent à cuire, les décoller doucement des parois et du fond de la poêle. Cuire jusqu'à ce que les œufs épaississent et qu'il n'y ait plus d'œufs liquides apparents.",
+        "Servir immédiatement avec du pain complet"
+      ],
+      "step_count": 3,
+      "ingredients": [
+        {
+          "raw": "- Oeuf, gros 2 u",
+          "name": "Oeuf, gros",
+          "quantity": 2.0,
+          "unit": "u",
+          "grams": null
+        },
+        {
+          "raw": "- Huile au choix 1 càc",
+          "name": "Huile au choix",
+          "quantity": 1.0,
+          "unit": "càc",
+          "grams": 4.5
+        },
+        {
+          "raw": "- Epinard frais 150 g",
+          "name": "Epinard frais",
+          "quantity": 150.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Pain complet 2 tr (64 g)",
+          "name": "Pain complet",
+          "quantity": 2.0,
+          "unit": "tr",
+          "grams": 64.0
+        }
+      ],
+      "servings": 1,
+      "source_pdf": "Plan alimentaire 1.pdf",
+      "page_number": 18,
+      "source_pdf_all": [
+        "Plan alimentaire 1.pdf",
+        "Plan alimentaire 1.PDF"
+      ]
+    },
+    {
+      "title": "Omelette aux Petits Pois",
+      "steps": [
+        "Hachez la tomate. Battez les œufs et les tomates avec du sel et du poivre.",
+        "Chauffez l'huile dans une poêle antiadhésive à feu moyen et versez le mélange d’œufs dans la poêle, laissez cuire pendant 1 minute.",
+        "Répartissez les petits pois sur la moitié de l'omelette.",
+        "Pliez l'omelette et faites cuire jusqu'à ce qu'elle soit prête.",
+        "Garnissez de persil et servez avec une tranche de pain"
+      ],
+      "step_count": 5,
+      "ingredients": [
+        {
+          "raw": "- Oeuf, gros 3 u",
+          "name": "Oeuf, gros",
+          "quantity": 3.0,
+          "unit": "u",
+          "grams": null
+        },
+        {
+          "raw": "- Tomate, haché 1,5 u",
+          "name": "Tomate, haché",
+          "quantity": 1.5,
+          "unit": "u",
+          "grams": null
+        },
+        {
+          "raw": "- Huile au choix 1,5 càc",
+          "name": "Huile au choix",
+          "quantity": 1.5,
+          "unit": "càc",
+          "grams": 6.75
+        },
+        {
+          "raw": "- Pain complet 1 tr (32 g)",
+          "name": "Pain complet",
+          "quantity": 1.0,
+          "unit": "tr",
+          "grams": 32.0
+        },
+        {
+          "raw": "- Petits pois cuits 60 g",
+          "name": "Petits pois cuits",
+          "quantity": 60.0,
+          "unit": "g",
+          "grams": null
+        }
+      ],
+      "servings": 1,
+      "source_pdf": "Plan alimentaire 1.pdf",
+      "page_number": 38,
+      "source_pdf_all": [
+        "Plan alimentaire 1.pdf",
+        "Plan alimentaire 1.PDF"
+      ]
+    },
+    {
+      "title": "Omelette Blanche au Saumon et Courgettes Sautées",
+      "steps": [
+        "Coupez les courgettes selon votre préférence et faites-les sauter avec un peu d'huile jusqu'à ce qu'elles soient tendres.",
+        "Coupez le saumon fumé en petits cubes. Séparez les jaunes d'œufs des blancs. Dans un bol, mélangez les jaunes avec une pincée de sel et du poivre selon votre goût. Montez les blancs en neige ferme, puis incorporez délicatement les jaunes, suivi des cubes de saumon fumé.",
+        "Chauffez une poêle à feu doux/moyen, en la graissant avec un peu d'huile.",
+        "Versez le mélange d'œufs dans la poêle chaude et étalez-le uniformément.",
+        "Couvrez la poêle avec un couvercle pour permettre à la vapeur de cuire le dessus de l'omelette par condensation. Laissez cuire environ 5 minutes, en surveillant la coloration pour éviter qu'elle ne brûle. Courgettes Sautées"
+      ],
+      "step_count": 5,
+      "ingredients": [
+        {
+          "raw": "- Oeuf, gros 1 u",
+          "name": "Oeuf, gros",
+          "quantity": 1.0,
+          "unit": "u",
+          "grams": null
+        },
+        {
+          "raw": "- Courgette 1 u (200 g)",
+          "name": "Courgette",
+          "quantity": 1.0,
+          "unit": "u",
+          "grams": 200.0
+        },
+        {
+          "raw": "- Huile au choix 1 càc",
+          "name": "Huile au choix",
+          "quantity": 1.0,
+          "unit": "càc",
+          "grams": 4.5
+        },
+        {
+          "raw": "- Saumon fumé 75 g",
+          "name": "Saumon fumé",
+          "quantity": 75.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Pain complet 1 tr (32 g)",
+          "name": "Pain complet",
+          "quantity": 1.0,
+          "unit": "tr",
+          "grams": 32.0
+        }
+      ],
+      "servings": 1,
+      "source_pdf": "Plan alimentaire 4.PDF",
+      "page_number": 24
+    },
+    {
+      "title": "Omelette Garnie à la Dinde",
+      "steps": [
+        "Fouettez les œufs avec du sel et du poivre",
+        "Chauffez l'huile dans une poêle antiadhésive à feu moyen et versez le mélange d'œufs, laissez cuire pendant environ 1-2 minutes.",
+        "Répartissez les tranches de dinde et le fromage râpé sur une moitié de l'omelette, puis repliez l'autre moitié sur la garniture.",
+        "Continuez la cuisson pendant encore 1-2 minutes jusqu'à ce que le fromage soit fondu et que les œufs soient complètement cuits.",
+        "Coupez lez tomates cerises en deux et agrémentez de vinaigre balsamique. Servez votre omelette avec la salade de tomates cerises."
+      ],
+      "step_count": 5,
+      "ingredients": [
+        {
+          "raw": "- Dinde, tranche 40 g",
+          "name": "Dinde, tranche",
+          "quantity": 40.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Oeuf, gros 2 u",
+          "name": "Oeuf, gros",
+          "quantity": 2.0,
+          "unit": "u",
+          "grams": null
+        },
+        {
+          "raw": "- Huile au choix 1 càc",
+          "name": "Huile au choix",
+          "quantity": 1.0,
+          "unit": "càc",
+          "grams": 4.5
+        },
+        {
+          "raw": "- Tomate cerise 100 g",
+          "name": "Tomate cerise",
+          "quantity": 100.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Cheddar 35 g",
+          "name": "Cheddar",
+          "quantity": 35.0,
+          "unit": "g",
+          "grams": null
+        }
+      ],
+      "servings": 1,
+      "source_pdf": "Plan alimentaire 4.PDF",
+      "page_number": 26
+    },
+    {
+      "title": "Omelette-Muffins de Dinde et Poivrons",
+      "steps": [
+        "Préchauffez le four à 190°C (375°F) et graissez les moules à muffins avec l'huile.",
+        "Coupez le poivron en dés et découpez la tranche de blanc de dinde et les épinards frais en petits morceaux. Répartissez les morceaux de poivrons, dinde et épinards dans les moules à muffins.",
+        "Fouettez les œufs avec la crème et répartir dans chaque moule sur les légumes. Assaisonnez avec du sel et du poivre.",
+        "Faites cuire au four pendant 15-20 minutes"
+      ],
+      "step_count": 4,
+      "ingredients": [
+        {
+          "raw": "- Dinde, tranche 20 g",
+          "name": "Dinde, tranche",
+          "quantity": 20.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Oeuf, gros 2 u",
+          "name": "Oeuf, gros",
+          "quantity": 2.0,
+          "unit": "u",
+          "grams": null
+        },
+        {
+          "raw": "- Poivron, haché 0,25 u",
+          "name": "Poivron, haché",
+          "quantity": 0.25,
+          "unit": "u",
+          "grams": null
+        },
+        {
+          "raw": "- Huile au choix 1 càc",
+          "name": "Huile au choix",
+          "quantity": 1.0,
+          "unit": "càc",
+          "grams": 4.5
+        },
+        {
+          "raw": "- Epinard frais 20 g",
+          "name": "Epinard frais",
+          "quantity": 20.0,
+          "unit": "g",
+          "grams": null
+        }
+      ],
+      "servings": 1,
+      "source_pdf": "Plan alimentaire 1.pdf",
+      "page_number": 24,
+      "source_pdf_all": [
+        "Plan alimentaire 1.pdf",
+        "Plan alimentaire 1.PDF"
+      ]
+    },
+    {
+      "title": "Overnight Chia Porridge au Kiwi",
+      "steps": [
+        "Épluchez et coupez le kiwi en morceaux. (ou autre fruit au choix)",
+        "Mélangez dans un bol ou une verrine tous les autres ingrédients et mélangez bien.",
+        "Placez au réfrigérateur pour 2h minimum.",
+        "Servez apres avoir remué et ajouté un peu d'eau si souhaité pour ajuster la texture. Dégustez frais en agrémentant des morceaux de kiwi"
+      ],
+      "step_count": 4,
+      "ingredients": [
+        {
+          "raw": "- Kiwi 1 u",
+          "name": "Kiwi",
+          "quantity": 1.0,
+          "unit": "u",
+          "grams": null
+        },
+        {
+          "raw": "- Miel (ou agave) 1 càc",
+          "name": "Miel (ou agave)",
+          "quantity": 1.0,
+          "unit": "càc",
+          "grams": 6.7
+        },
+        {
+          "raw": "- Graines de chia 3 càc (12 g)",
+          "name": "Graines de chia",
+          "quantity": 3.0,
+          "unit": "càc",
+          "grams": 12.0
+        },
+        {
+          "raw": "- Lait demi-écrémé 140 ml",
+          "name": "Lait demi-écrémé",
+          "quantity": 140.0,
+          "unit": "ml",
+          "grams": null
+        },
+        {
+          "raw": "- Flocons d'avoine 5 càs (50 g)",
+          "name": "Flocons d'avoine",
+          "quantity": 5.0,
+          "unit": "càs",
+          "grams": 50.0
+        },
+        {
+          "raw": "- Skyr nature 50 g",
+          "name": "Skyr nature",
+          "quantity": 50.0,
+          "unit": "g",
+          "grams": null
+        }
+      ],
+      "servings": 1,
+      "source_pdf": "Plan alimentaire 1.pdf",
+      "page_number": 33,
+      "source_pdf_all": [
+        "Plan alimentaire 1.pdf",
+        "Plan alimentaire 1.PDF"
+      ]
+    },
+    {
+      "title": "Pain Complet Grillé aux Pois Écrasés, à la Menthe et à la Feta",
+      "steps": [
+        "Dans un petit bol, écrasez les petits pois avec la feta, l'huile et le jus de citron.",
+        "Écrasez jusqu'à obtenir une pâte grossière. Assaisonnez avec du sel et du poivre à votre goût.",
+        "Faites griller le pain si souhaité.",
+        "Étalez la préparation de pois écrasés uniformément sur le pain grillé.",
+        "Garnissez de feuilles de menthe (optionnel)"
+      ],
+      "step_count": 5,
+      "ingredients": [
+        {
+          "raw": "- Huile au choix 0,5 càs",
+          "name": "Huile au choix",
+          "quantity": 0.5,
+          "unit": "càs",
+          "grams": 6.75
+        },
+        {
+          "raw": "- Feta 50 g",
+          "name": "Feta",
+          "quantity": 50.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Pain complet 1 tr (32 g)",
+          "name": "Pain complet",
+          "quantity": 1.0,
+          "unit": "tr",
+          "grams": 32.0
+        },
+        {
+          "raw": "- Menthe fraîche 1 càs",
+          "name": "Menthe fraîche",
+          "quantity": 1.0,
+          "unit": "càs",
+          "grams": 15.0
+        },
+        {
+          "raw": "- Jus de citron 0,5 càs",
+          "name": "Jus de citron",
+          "quantity": 0.5,
+          "unit": "càs",
+          "grams": 7.75
+        },
+        {
+          "raw": "- Petits pois cuits 100 g",
+          "name": "Petits pois cuits",
+          "quantity": 100.0,
+          "unit": "g",
+          "grams": null
+        }
+      ],
+      "servings": 1,
+      "source_pdf": "Plan alimentaire 2.PDF",
+      "page_number": 24
+    },
+    {
+      "title": "Patate Douce aux Lentilles et Yaourt",
+      "steps": [
+        "Vinaigre bals. 1,5 càs- Salade feuilles 40 g- Parmesan 2 càs (10 g) Fromage blanc 3% 4,5 càs (58,5 g)- Ail en poudre 1 càc",
+        "Préchauffez votre four à 200°C (400°F). Lavez la patate douce soigneusement et coupez-la en deux dans le sens de la longueur, puis quadrillez à l'aide d'un couteau.",
+        "Placez la patate douce sur une plaque de cuisson et faites cuire jusqu'à ce qu'elle soit tendre à la fourchette.",
+        "Pendant ce temps, mélangez les lentilles cuites égouttées dans un bol avec les épices et l'origan.",
+        "Assaisonnez de sel et de poivre au goût.",
+        "Dans un petit bol, fouettez ensemble le jus de citron, le yaourt et du sel. Ajoutez aux lentilles et mélangez.",
+        "Une fois la patate douce cuite, creusez-la pour récupérer de la chair et l'ajouter au mélange de lentilles.",
+        "Étalez la garniture de lentilles sur la patate douce et parsemez de parmesan. (S'il reste de la préparation, placez sur le côté) et faites griller le tout au four pendant 5 min.",
+        "Dans un bol, mélangez le vinaigre balsamique et l'huile puis assaisonnez la salade verte avec cette vinaigrette. Servez la patate douce garnie avec la salade. Yaourt"
+      ],
+      "step_count": 9,
+      "ingredients": [
+        {
+          "raw": "- Patate douce, moyen 1 u (200 g)",
+          "name": "Patate douce, moyen",
+          "quantity": 1.0,
+          "unit": "u",
+          "grams": 200.0
+        },
+        {
+          "raw": "- Huile au choix 1 càc",
+          "name": "Huile au choix",
+          "quantity": 1.0,
+          "unit": "càc",
+          "grams": 4.5
+        },
+        {
+          "raw": "- Lentilles cuites 160 g",
+          "name": "Lentilles cuites",
+          "quantity": 160.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Paprika 1 càc",
+          "name": "Paprika",
+          "quantity": 1.0,
+          "unit": "càc",
+          "grams": 2.3
+        },
+        {
+          "raw": "- Origan séché 1 càc",
+          "name": "Origan séché",
+          "quantity": 1.0,
+          "unit": "càc",
+          "grams": 5.0
+        },
+        {
+          "raw": "- Jus de citron 1 càs",
+          "name": "Jus de citron",
+          "quantity": 1.0,
+          "unit": "càs",
+          "grams": 15.5
+        },
+        {
+          "raw": "- Vinaigre bals. 1,5 càs",
+          "name": "Vinaigre bals.",
+          "quantity": 1.5,
+          "unit": "càs",
+          "grams": 24.0
+        },
+        {
+          "raw": "- Salade feuilles 40 g",
+          "name": "Salade feuilles",
+          "quantity": 40.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Parmesan 2 càs (10 g)",
+          "name": "Parmesan",
+          "quantity": 2.0,
+          "unit": "càs",
+          "grams": 10.0
+        },
+        {
+          "raw": "- Fromage blanc 3% 4,5 càs (58,5 g)",
+          "name": "Fromage blanc 3%",
+          "quantity": 4.5,
+          "unit": "càs",
+          "grams": 58.5
+        },
+        {
+          "raw": "- Ail en poudre 1 càc",
+          "name": "Ail en poudre",
+          "quantity": 1.0,
+          "unit": "càc",
+          "grams": 5.0
+        }
+      ],
+      "servings": 1,
+      "source_pdf": "Plan alimentaire 2.PDF",
+      "page_number": 10
+    },
+    {
+      "title": "Pâtes Crémeuses au Poulet et Petits Pois",
+      "steps": [
+        "Portez une grande casserole d'eau salée à ébullition et cuisez les pâtes.",
+        "Pendant ce temps, dans une poêle, chauffez l'huile et faites cuire l'oignon coupé en tranches jusqu'à ce qu'il soit doré et ramolli. (Ajoutez un peu d'eau si besoin, si cela accroche).",
+        "Ajoutez l'ail écrasé, et l'escalope de poulet.",
+        "Une fois le poulet cuit, ajoutez la crème et les petits pois, et mélangez jusqu'à ce que le tout soit combiné et cuit.",
+        "Ajoutez les pâtes et saupoudrez d'aneth haché et de zeste de citron. Salez, poivrez et mélangez bien, puis servez. Petits Pois"
+      ],
+      "step_count": 5,
+      "ingredients": [
+        {
+          "raw": "- Blanc de poulet 100 g",
+          "name": "Blanc de poulet",
+          "quantity": 100.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Oignon, lamelles 0,5 u",
+          "name": "Oignon, lamelles",
+          "quantity": 0.5,
+          "unit": "u",
+          "grams": null
+        },
+        {
+          "raw": "- Huile au choix 1 càc",
+          "name": "Huile au choix",
+          "quantity": 1.0,
+          "unit": "càc",
+          "grams": 4.5
+        },
+        {
+          "raw": "- Citron 0,5 u",
+          "name": "Citron",
+          "quantity": 0.5,
+          "unit": "u",
+          "grams": null
+        },
+        {
+          "raw": "- Aneth frais 1 càc",
+          "name": "Aneth frais",
+          "quantity": 1.0,
+          "unit": "càc",
+          "grams": 1.0
+        },
+        {
+          "raw": "- Pates fusilli, crues 55 g",
+          "name": "Pates fusilli, crues",
+          "quantity": 55.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Crème fraîche 15% 1,5 càs (22,5 g)",
+          "name": "Crème fraîche 15%",
+          "quantity": 1.5,
+          "unit": "càs",
+          "grams": 22.5
+        },
+        {
+          "raw": "- Petits pois cuits 30 g",
+          "name": "Petits pois cuits",
+          "quantity": 30.0,
+          "unit": "g",
+          "grams": null
+        }
+      ],
+      "servings": 1,
+      "source_pdf": "Plan alimentaire 1.pdf",
+      "page_number": 41,
+      "source_pdf_all": [
+        "Plan alimentaire 1.pdf",
+        "Plan alimentaire 1.PDF"
+      ]
+    },
+    {
+      "title": "Pâtes Crémeuses au Thon, Champignons et Mozzarella",
+      "steps": [
+        "Pendant ce temps, coupez les champignons et émincez l'ail et faites-les revenir dans une poêle antiadhésive.",
+        "Une fois cuits, ajoutez les pâtes cuites égouttées à la poêlée ainsi que la crème et la mozzarella coupée en petits morceaux. Baissez le feu, mélangez bien, et assaisonnez à votre goût. Servez chaud. Champignons et Mozzarella"
+      ],
+      "step_count": 2,
+      "ingredients": [
+        {
+          "raw": "- Mozzarella 30 g",
+          "name": "Mozzarella",
+          "quantity": 30.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Champignon 100 g",
+          "name": "Champignon",
+          "quantity": 100.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Pates fusilli, crues 30 g",
+          "name": "Pates fusilli, crues",
+          "quantity": 30.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Thon en boîte 60 g",
+          "name": "Thon en boîte",
+          "quantity": 60.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Crème fraîche 30% 75 g",
+          "name": "Crème fraîche 30%",
+          "quantity": 75.0,
+          "unit": "g",
+          "grams": null
+        }
+      ],
+      "servings": 1,
+      "source_pdf": "Plan alimentaire 3.PDF",
+      "page_number": 33
+    },
+    {
+      "title": "Pâtes Crémeuses aux Poireaux et Lardons",
+      "steps": [
+        "Faites bouillir une casserole d'eau et cuisez les pâtes. Coupez le poireau en rondelles",
+        "Dans une poêle, antiadhésive à feu moyen-élevé, cuisez les lardons jusqu'à ce qu'ils soient croustillants. Réservez. Ajoutez les rondelles de poireau dans l'huile des lardons dans la poêle, et cuire jusqu'à ce qu'elles soient ramollies. Réduisez le feu à moyen-doux et incorporez le fromage blanc, laissez mijoter quelques minutes jusqu'à épaississement. Assaisonnez le mélange avec du sel et du poivre.",
+        "Égouttez les pâtes et ajoutez-les ainsi que les lardons cuits avec la préparation crémeuse aux poireaux dans la poêle. Mélangez bien.",
+        "Saupoudrez de parmesan avant de servir. Lardons"
+      ],
+      "step_count": 4,
+      "ingredients": [
+        {
+          "raw": "- Poireau 1 u",
+          "name": "Poireau",
+          "quantity": 1.0,
+          "unit": "u",
+          "grams": null
+        },
+        {
+          "raw": "- Parmesan râpé 1 càs (5 g)",
+          "name": "Parmesan râpé",
+          "quantity": 1.0,
+          "unit": "càs",
+          "grams": 5.0
+        },
+        {
+          "raw": "- Pates fusilli, crues 60 g",
+          "name": "Pates fusilli, crues",
+          "quantity": 60.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Fromage blanc 3% 30 g",
+          "name": "Fromage blanc 3%",
+          "quantity": 30.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Lardons 110 g",
+          "name": "Lardons",
+          "quantity": 110.0,
+          "unit": "g",
+          "grams": null
+        }
+      ],
+      "servings": 1,
+      "source_pdf": "Plan alimentaire 2.PDF",
+      "page_number": 21
+    },
+    {
+      "title": "Petit Déjeuner aux Oeufs Brouillés",
+      "steps": [
+        "Beurre mou 1 càc (5 g)- Crème végétale 2 càs (30 ml)",
+        "Faites griller le pain au grille-pain.",
+        "Pendant ce temps, chauffer une poêle antiadhésive et faites fondre le beurre. Battre les œufs avec la crème, salez et poivrez. Versez-les dans la poêle et faites-les cuire sans remuer pendant 1 minute. Puis remuez doucement en laissant les œufs non cuits s'étaler sur les bords de la poêle. (ou les cuire au plat si vous préférez).",
+        "Faites cuire les œufs jusqu'à ce qu'ils soient bien cuits. Puis, salez et poivrez.",
+        "Accompagnez vos oeufs de pain complet et d'unkiwi (ou autre fruit de votre choix)"
+      ],
+      "step_count": 5,
+      "ingredients": [
+        {
+          "raw": "- Oeuf, gros 3 u",
+          "name": "Oeuf, gros",
+          "quantity": 3.0,
+          "unit": "u",
+          "grams": null
+        },
+        {
+          "raw": "- Kiwi 2 u",
+          "name": "Kiwi",
+          "quantity": 2.0,
+          "unit": "u",
+          "grams": null
+        },
+        {
+          "raw": "- Pain complet 1 tr (32 g)",
+          "name": "Pain complet",
+          "quantity": 1.0,
+          "unit": "tr",
+          "grams": 32.0
+        },
+        {
+          "raw": "- Beurre mou 1 càc (5 g)",
+          "name": "Beurre mou",
+          "quantity": 1.0,
+          "unit": "càc",
+          "grams": 5.0
+        }
+      ],
+      "servings": 1,
+      "source_pdf": "Plan alimentaire 3.PDF",
+      "page_number": 8
+    },
+    {
+      "title": "Petit-Suisse et Fruit au Choix",
+      "steps": [
+        "Dans un bol, mélangez le yaourt avec un filet de miel ou du sirop d’agave, puis ajoutez un fruit de votre choix"
+      ],
+      "step_count": 1,
+      "ingredients": [
+        {
+          "raw": "- Miel (ou agave) 1 càc",
+          "name": "Miel (ou agave)",
+          "quantity": 1.0,
+          "unit": "càc",
+          "grams": 6.7
+        },
+        {
+          "raw": "- Fruit au choix 1 u",
+          "name": "Fruit au choix",
+          "quantity": 1.0,
+          "unit": "u",
+          "grams": null
+        },
+        {
+          "raw": "- Petit-suisse 3 u",
+          "name": "Petit-suisse",
+          "quantity": 3.0,
+          "unit": "u",
+          "grams": null
+        }
+      ],
+      "servings": 1,
+      "source_pdf": "Plan alimentaire 2.PDF",
+      "page_number": 12
+    },
+    {
+      "title": "Poêlée de Pois Chiches et Feta",
+      "steps": [
+        "Chauffez l'huile dans une poêle à feu moyen. Ajoutez le poivron et les courgettes. Faites cuire jusqu'à ce que les légumes soient tendres, environ 4-5 minutes. Ajoutez les pois chiches et tomates, et faites cuire 3-4 minutes. Incorporez la sauce salsa (ou sauce tomate si préféré) et remuez jusqu'à ce que le tout soit chaud, environ 2-3 minutes. Servez avec du yaourt et de la feta par-dessus."
+      ],
+      "step_count": 1,
+      "ingredients": [
+        {
+          "raw": "- Poivron, haché 1 u",
+          "name": "Poivron, haché",
+          "quantity": 1.0,
+          "unit": "u",
+          "grams": null
+        },
+        {
+          "raw": "- Tomate, haché 1,5 u",
+          "name": "Tomate, haché",
+          "quantity": 1.5,
+          "unit": "u",
+          "grams": null
+        },
+        {
+          "raw": "- Courgette 0,5 u (100 g)",
+          "name": "Courgette",
+          "quantity": 0.5,
+          "unit": "u",
+          "grams": 100.0
+        },
+        {
+          "raw": "- Huile au choix 1 càc",
+          "name": "Huile au choix",
+          "quantity": 1.0,
+          "unit": "càc",
+          "grams": 4.5
+        },
+        {
+          "raw": "- Pois chiche, boîte 150 g",
+          "name": "Pois chiche, boîte",
+          "quantity": 150.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Feta 50 g",
+          "name": "Feta",
+          "quantity": 50.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Sauce salsa 1 càs (15 g)",
+          "name": "Sauce salsa",
+          "quantity": 1.0,
+          "unit": "càs",
+          "grams": 15.0
+        },
+        {
+          "raw": "- Fromage blanc 3% 1 càs (13 g)",
+          "name": "Fromage blanc 3%",
+          "quantity": 1.0,
+          "unit": "càs",
+          "grams": 13.0
+        }
+      ],
+      "servings": 1,
+      "source_pdf": "Plan alimentaire 1.pdf",
+      "page_number": 30,
+      "source_pdf_all": [
+        "Plan alimentaire 1.pdf",
+        "Plan alimentaire 1.PDF"
+      ]
+    },
+    {
+      "title": "Poêlée de Quinoa, Poulet et Légumes",
+      "steps": [
+        "Dans une casserole, cuisez le quinoa en utilisant de l'eau bouillie dans laquelle vous dissolvez le cube de bouillon.",
+        "Dans une autre poêle, chauffez l'huile d'olive dans une poêle sur feu moyen. Ajoutez l'oignon et le poivron rouge. Faites sauter jusqu'à ce qu'ils soient ramollis.",
+        "Ajoutez les tomates hachées à la poêle et laissez mijoter. Assaisonnez avec du paprika et du sel à votre goût.",
+        "Ajoutez le poulet et faites revenir jusqu'à cuit. Puis, ajoutez les haricots à la poêle et réchauffez.",
+        "Combinez le quinoa cuit avec le mélange de poulet et de légumes dans la poêle et servez. Légumes"
+      ],
+      "step_count": 5,
+      "ingredients": [
+        {
+          "raw": "- Blanc de poulet 150 g",
+          "name": "Blanc de poulet",
+          "quantity": 150.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Poivron, haché 0,5 u",
+          "name": "Poivron, haché",
+          "quantity": 0.5,
+          "unit": "u",
+          "grams": null
+        },
+        {
+          "raw": "- Oignon, haché 0,5 u",
+          "name": "Oignon, haché",
+          "quantity": 0.5,
+          "unit": "u",
+          "grams": null
+        },
+        {
+          "raw": "- Tomate, haché 0,5 u",
+          "name": "Tomate, haché",
+          "quantity": 0.5,
+          "unit": "u",
+          "grams": null
+        },
+        {
+          "raw": "- Huile au choix 1 càc",
+          "name": "Huile au choix",
+          "quantity": 1.0,
+          "unit": "càc",
+          "grams": 4.5
+        },
+        {
+          "raw": "- Quinoa, cru 40 g",
+          "name": "Quinoa, cru",
+          "quantity": 40.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Paprika 1 càc",
+          "name": "Paprika",
+          "quantity": 1.0,
+          "unit": "càc",
+          "grams": 2.3
+        },
+        {
+          "raw": "- Haricots rouges, boîte 50 g",
+          "name": "Haricots rouges, boîte",
+          "quantity": 50.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Cube bouillon 1 u",
+          "name": "Cube bouillon",
+          "quantity": 1.0,
+          "unit": "u",
+          "grams": null
+        }
+      ],
+      "servings": 1,
+      "source_pdf": "Plan alimentaire 3.PDF",
+      "page_number": 26
+    },
+    {
+      "title": "Poisson à la Croûte de Chorizo et Pommes de Terre Rôties",
+      "steps": [
+        "Pomme de terre 150 g- Huile au choix 1 càc- Ail haché 1 gousse Chorizo 20 g- Poisson blanc 100 g- Champignon 100 g Parmesan 1 càs (5 g)- Chapelure 1,5 càs (12 g)",
+        "Préchauffez le four à 200°C (392°F).",
+        "Coupez les pommes de terre en quartiers. Coupez également les champignons en tranches fines. Mélangez-les avec l’huile, l’ail haché, du sel et du poivre.",
+        "Rôtir au four pendant 25 minutes.",
+        "Mixer le chorizo, le parmesan râpé, la chapelure, le sel et le poivre jusqu'à obtenir une pâte grossière.",
+        "Assaisonnez le filet de poisson et faites cuire dans une poêle chaude avec un peu d'huile pendant 2-3 minutes.",
+        "Une fois cuit, recouvrez le poisson avec le mélange de chorizo et faites griller également au four pendent 3-4 minutes.",
+        "Servez le poisson avec les légumes rôties.",
+        "Pommes de Terre Rôties"
+      ],
+      "step_count": 9,
+      "ingredients": [
+        {
+          "raw": "- Pomme de terre 150 g",
+          "name": "Pomme de terre",
+          "quantity": 150.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Huile au choix 1 càc",
+          "name": "Huile au choix",
+          "quantity": 1.0,
+          "unit": "càc",
+          "grams": 4.5
+        },
+        {
+          "raw": "- Chorizo 20 g",
+          "name": "Chorizo",
+          "quantity": 20.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Poisson blanc 100 g",
+          "name": "Poisson blanc",
+          "quantity": 100.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Champignon 100 g",
+          "name": "Champignon",
+          "quantity": 100.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Parmesan 1 càs (5 g)",
+          "name": "Parmesan",
+          "quantity": 1.0,
+          "unit": "càs",
+          "grams": 5.0
+        },
+        {
+          "raw": "- Chapelure 1,5 càs (12 g)",
+          "name": "Chapelure",
+          "quantity": 1.5,
+          "unit": "càs",
+          "grams": 12.0
+        }
+      ],
+      "servings": 1,
+      "source_pdf": "Plan alimentaire 1.pdf",
+      "page_number": 26,
+      "source_pdf_all": [
+        "Plan alimentaire 1.pdf",
+        "Plan alimentaire 1.PDF"
+      ]
+    },
+    {
+      "title": "Poisson avec Pommes de Terre à l'Ail et Haricots Verts",
+      "steps": [
+        "Lavez et coupez les pommes de terre en petits morceaux.",
+        "Faites chauffer l'huile dans une grande poêle antiadhésive et ajoutez l'ail haché. Puis, ajoutez les pommes de terre pour 10 minutes.",
+        "Une fois presques cuites, les décaler sur un côté de la poêle et ajoutez le poisson blanc de votre choix et les haricots verts (en conserve ou précuits).",
+        "Cuire le poisson de chaque côté 3-4 minutes et remuez les haricots verts et les patates de temps en temps.",
+        "Salez poivrez et assaisonnez de l'herbe aromatique de votre choix. l'Ail et Haricots Verts"
+      ],
+      "step_count": 5,
+      "ingredients": [
+        {
+          "raw": "- Haricots verts 200 g",
+          "name": "Haricots verts",
+          "quantity": 200.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Pomme de terre 250 g",
+          "name": "Pomme de terre",
+          "quantity": 250.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Huile au choix 4 càc",
+          "name": "Huile au choix",
+          "quantity": 4.0,
+          "unit": "càc",
+          "grams": 18.0
+        },
+        {
+          "raw": "- Herbes arom. 1 càc",
+          "name": "Herbes arom.",
+          "quantity": 1.0,
+          "unit": "càc",
+          "grams": 5.0
+        },
+        {
+          "raw": "- Jus de citron 1 càs",
+          "name": "Jus de citron",
+          "quantity": 1.0,
+          "unit": "càs",
+          "grams": 15.5
+        },
+        {
+          "raw": "- Poisson blanc 150 g",
+          "name": "Poisson blanc",
+          "quantity": 150.0,
+          "unit": "g",
+          "grams": null
+        }
+      ],
+      "servings": 1,
+      "source_pdf": "Plan alimentaire 2.PDF",
+      "page_number": 30
+    },
+    {
+      "title": "Porc à la Moutarde et Gnocchis à",
+      "steps": [
+        "Coupez les tomates cerises en deux et l'oignon en tranches. Badigeonnez l'escalope de porc de moutarde à l'ancienne, salez et poivrez.",
+        "Pendant ce temps, chauffer l'huile dans une grande poêle antiadhésive, cuisez l'oignon. Une fois cuit, ajoutez les tomates cerises puis les gnocchis et la crème.",
+        "Assaisonnez à votre goût, puis une fois le tout cuit, mettre dans une assiette. Et utilisez la même poêle pour faire revenir rapidement la viande 2 minutes de chaque côté à feu moyen-vif.",
+        "Assaisonnez à votre souhait et ajoutez la viande à votre assiette et dégustez. la Tomate"
+      ],
+      "step_count": 4,
+      "ingredients": [
+        {
+          "raw": "- Oignon, lamelles 0,5 u",
+          "name": "Oignon, lamelles",
+          "quantity": 0.5,
+          "unit": "u",
+          "grams": null
+        },
+        {
+          "raw": "- Huile au choix 1 càc",
+          "name": "Huile au choix",
+          "quantity": 1.0,
+          "unit": "càc",
+          "grams": 4.5
+        },
+        {
+          "raw": "- Tomate cerise 200 g",
+          "name": "Tomate cerise",
+          "quantity": 200.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Moutarde de Dijon 1 càc",
+          "name": "Moutarde de Dijon",
+          "quantity": 1.0,
+          "unit": "càc",
+          "grams": 5.0
+        },
+        {
+          "raw": "- Crème fraîche 15% 2 càs (30 g)",
+          "name": "Crème fraîche 15%",
+          "quantity": 2.0,
+          "unit": "càs",
+          "grams": 30.0
+        },
+        {
+          "raw": "- Porc, escalope 100 g",
+          "name": "Porc, escalope",
+          "quantity": 100.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Gnocchis 120 g",
+          "name": "Gnocchis",
+          "quantity": 120.0,
+          "unit": "g",
+          "grams": null
+        }
+      ],
+      "servings": 1,
+      "source_pdf": "Plan alimentaire 3.PDF",
+      "page_number": 17
+    },
+    {
+      "title": "Poulet Caramélisé à l'Asiatique et Courgettes",
+      "steps": [
+        "Cuire le riz dans une casserole d'eau bouillante. Pendant ce temps, coupez la viande en fines lamelles, la courgette en dés, l'oignon en tranches et émincez l'ail.",
+        "Faites chauffer l'huile dans une poêle antiadhésive, et cuire les dés de courgettes, l'ail et l'oignon.",
+        "Ajoutez la sauce soja, le sucre brun et un peu d'eau et faire chauffer à feu moyen sans remuer jusqu’à ce que le mélange épaississe et caramélise un peu. Puis remuez et ajoutez le poulet et faites cuire 5 minutes. Salez, poivrez.",
+        "Une fois le poulet cuit, laissez mijoter quelques minutes.",
+        "Servir dans une assiette accompagné du riz cuit égoutté. Courgettes"
+      ],
+      "step_count": 5,
+      "ingredients": [
+        {
+          "raw": "- Blanc de poulet 100 g",
+          "name": "Blanc de poulet",
+          "quantity": 100.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Oignon 0,5 u",
+          "name": "Oignon",
+          "quantity": 0.5,
+          "unit": "u",
+          "grams": null
+        },
+        {
+          "raw": "- Courgette 0,5 u (100 g)",
+          "name": "Courgette",
+          "quantity": 0.5,
+          "unit": "u",
+          "grams": 100.0
+        },
+        {
+          "raw": "- Riz, cru 55 g",
+          "name": "Riz, cru",
+          "quantity": 55.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Sauce soja 2 càc",
+          "name": "Sauce soja",
+          "quantity": 2.0,
+          "unit": "càc",
+          "grams": 10.6
+        },
+        {
+          "raw": "- Huile de sésame 2 càc",
+          "name": "Huile de sésame",
+          "quantity": 2.0,
+          "unit": "càc",
+          "grams": 9.0
+        },
+        {
+          "raw": "- Sucre brun 2 càc (10 g)",
+          "name": "Sucre brun",
+          "quantity": 2.0,
+          "unit": "càc",
+          "grams": 10.0
+        }
+      ],
+      "servings": 1,
+      "source_pdf": "Plan alimentaire 3.PDF",
+      "page_number": 30
+    },
+    {
+      "title": "Poulet Glacé au Miel, Citron et Herbes",
+      "steps": [
+        "Préparez le bouillon de poulet en utilisant un bouillon tout prêt ou en dissolvant le cube de bouillon de poulet dans 1 tasse d'eau bouillante.",
+        "Dans un bol, mélangez le miel, le jus de citron, les herbes et le bouillon; mettre de côté.",
+        "Chauffez l'huile dans une poêle à feu moyen à élevé et cuire le poulet jusqu'à ce qu'il soit cuit à environ 90 %, environ 5 à 10 minutes.",
+        "Ajoutez le vinaigre de cidre à la poêle et déglacez en raclant les morceaux collés à la poêle.",
+        "Versez le mélange de miel-citron préparé sur le poulet, maintenez le feu vif et laissez mijoter jusqu'à ce que la sauce réduise et épaississe, environ 8-10 minutes. Herbes"
+      ],
+      "step_count": 5,
+      "ingredients": [
+        {
+          "raw": "- Blanc de poulet 250 g",
+          "name": "Blanc de poulet",
+          "quantity": 250.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Huile au choix 1 càs",
+          "name": "Huile au choix",
+          "quantity": 1.0,
+          "unit": "càs",
+          "grams": 13.5
+        },
+        {
+          "raw": "- Herbes arom. 1 càc",
+          "name": "Herbes arom.",
+          "quantity": 1.0,
+          "unit": "càc",
+          "grams": 5.0
+        },
+        {
+          "raw": "- Miel (ou agave) 1,5 càs",
+          "name": "Miel (ou agave)",
+          "quantity": 1.5,
+          "unit": "càs",
+          "grams": 30.0
+        },
+        {
+          "raw": "- Vin. de cidre 1,5 càc",
+          "name": "Vin. de cidre",
+          "quantity": 1.5,
+          "unit": "càc",
+          "grams": 7.5
+        },
+        {
+          "raw": "- Jus de citron 1,5 càs",
+          "name": "Jus de citron",
+          "quantity": 1.5,
+          "unit": "càs",
+          "grams": 23.25
+        },
+        {
+          "raw": "- Légumes au choix 150 g",
+          "name": "Légumes au choix",
+          "quantity": 150.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Cube bouillon 0,5 u",
+          "name": "Cube bouillon",
+          "quantity": 0.5,
+          "unit": "u",
+          "grams": null
+        }
+      ],
+      "servings": 1,
+      "source_pdf": "Plan alimentaire 2.PDF",
+      "page_number": 34
+    },
+    {
+      "title": "Poulet Grillé au Balsamique avec Mozzarella et Tomate",
+      "steps": [
+        "Préchauffez votre four à 180° sur chaleur tournante.",
+        "Dans un petit bol, mélangez le vinaigre balsamique, le miel, l'huile, du sel, du poivre et des épices ou herbes au choix si souhaité. Versez sur le poulet et laissez mariner pendant 15 minutes.",
+        "Couvrez une plaque de papier cuisson et placez le poulet. Cuire jusqu'à ce qu'il commence à dorer, soit environ 18 minutes.",
+        "Recouvrez le poulet de tranches de mozzarella et de tomate et laissez 3 minutes supplémentaires jusqu'à ce que le fromage fonde.",
+        "Dégustez. (S'il reste des morceaux de tomate ou mozzarella en plus qui ne tiennent pas sur le poulet, mangez en salade en accompagnement avec un peu plus de vinaigre balsamique). Mozzarella et Tomate"
+      ],
+      "step_count": 5,
+      "ingredients": [
+        {
+          "raw": "- Blanc de poulet 125 g",
+          "name": "Blanc de poulet",
+          "quantity": 125.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Tomate 1,5 u",
+          "name": "Tomate",
+          "quantity": 1.5,
+          "unit": "u",
+          "grams": null
+        },
+        {
+          "raw": "- Huile au choix 1,5 càc",
+          "name": "Huile au choix",
+          "quantity": 1.5,
+          "unit": "càc",
+          "grams": 6.75
+        },
+        {
+          "raw": "- Miel (ou agave) 2 càc",
+          "name": "Miel (ou agave)",
+          "quantity": 2.0,
+          "unit": "càc",
+          "grams": 13.4
+        },
+        {
+          "raw": "- Mozzarella, tranche 55 g",
+          "name": "Mozzarella, tranche",
+          "quantity": 55.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Vinaigre bals. 2 càs",
+          "name": "Vinaigre bals.",
+          "quantity": 2.0,
+          "unit": "càs",
+          "grams": 32.0
+        }
+      ],
+      "servings": 1,
+      "source_pdf": "Plan alimentaire 1.pdf",
+      "page_number": 25,
+      "source_pdf_all": [
+        "Plan alimentaire 1.pdf",
+        "Plan alimentaire 1.PDF"
+      ]
+    },
+    {
+      "title": "Quiche de Polenta aux Épinards",
+      "steps": [
+        "Préchauffez le four à 180°C (350°F).",
+        "Faites chauffer l'huile dans une poêle, ajoutez les épinards hachés et cuire 5 à 7 minutes.",
+        "Réservez.",
+        "Dans un bol, mélangez les œufs, le lait, la polenta et l'ail écrasé, salez, poivrez et fouettez jusqu'à obtenir une consistance lisse.",
+        "Ajoutez la feta, le parmesan, l'aneth et les épinards cuits.",
+        "Versez le mélange dans un plat à quiche ou à gratin et faites cuire 20 à 25 minutes à 180°C (350°F)."
+      ],
+      "step_count": 6,
+      "ingredients": [
+        {
+          "raw": "- Oeuf, gros 2 u",
+          "name": "Oeuf, gros",
+          "quantity": 2.0,
+          "unit": "u",
+          "grams": null
+        },
+        {
+          "raw": "- Huile au choix 0,5 càs",
+          "name": "Huile au choix",
+          "quantity": 0.5,
+          "unit": "càs",
+          "grams": 6.75
+        },
+        {
+          "raw": "- Aneth frais 1 càc",
+          "name": "Aneth frais",
+          "quantity": 1.0,
+          "unit": "càc",
+          "grams": 1.0
+        },
+        {
+          "raw": "- Epinard frais 40 g",
+          "name": "Epinard frais",
+          "quantity": 40.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Feta 1 càs (9 g)",
+          "name": "Feta",
+          "quantity": 1.0,
+          "unit": "càs",
+          "grams": 9.0
+        },
+        {
+          "raw": "- Parmesan 0,5 càs (2,5 g)",
+          "name": "Parmesan",
+          "quantity": 0.5,
+          "unit": "càs",
+          "grams": 2.5
+        },
+        {
+          "raw": "- Polenta 55 g",
+          "name": "Polenta",
+          "quantity": 55.0,
+          "unit": "g",
+          "grams": null
+        }
+      ],
+      "servings": 1,
+      "source_pdf": "Plan alimentaire 3.PDF",
+      "page_number": 18
+    },
+    {
+      "title": "Quinoa aux Champignons et Poulet",
+      "steps": [
+        "Faites cuire le quinoa dans une casserole d'eau bouillante.",
+        "Pendant ce temps, coupez les champignons en tranches et émincez l'ail. Chauffez l'huile dans une poêle antiadhésive et faites cuire l'ail et les champignons. Salez, poivrez.",
+        "Une fois cuits, mettre sur le côté de la poêle et cuire la poulet dans la même poêle jusqu'à ce qu'il soit légèrement doré.",
+        "Égouttez le quinoa et placez dans une assiette avec le poulet.",
+        "Ajoutez la crème dans la poêle avec les champignons et remuez ensemble 2 minutes.",
+        "Ajoutez la poêlée de champignons sur le quinoa. Assaisonnez avec du sel et du poivre à votre goût et servez."
+      ],
+      "step_count": 6,
+      "ingredients": [
+        {
+          "raw": "- Blanc de poulet 130 g",
+          "name": "Blanc de poulet",
+          "quantity": 130.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Huile au choix 1 càc",
+          "name": "Huile au choix",
+          "quantity": 1.0,
+          "unit": "càc",
+          "grams": 4.5
+        },
+        {
+          "raw": "- Quinoa, cru 4 càs (40 g)",
+          "name": "Quinoa, cru",
+          "quantity": 4.0,
+          "unit": "càs",
+          "grams": 40.0
+        },
+        {
+          "raw": "- Champignon 200 g",
+          "name": "Champignon",
+          "quantity": 200.0,
+          "unit": "g",
+          "grams": null
+        }
+      ],
+      "servings": 1,
+      "source_pdf": "Plan alimentaire 1.pdf",
+      "page_number": 11,
+      "source_pdf_all": [
+        "Plan alimentaire 1.pdf",
+        "Plan alimentaire 1.PDF"
+      ]
+    },
+    {
+      "title": "Quinoa Vert au Poulet",
+      "steps": [
+        "Coupez le brocolis en petits bouquets. Faites cuire le quinoa cru dans une casserole d'eau bouillante avec les bouquets de brocoli.",
+        "Pendant ce temps, coupez le poulet en morceaux. Chauffez une poêle antiadhésive et faites cuire les morceaux de poulet jusqu'à ce qu'ils soient légèrement dorés.",
+        "Égouttez le quinoa et le brocolis cuits et placez dans une assiette avec les haricots verts égouttés.",
+        "Dans un petit bol, mélangez la crème et le pesto ensemble. Agrémentez l'ensemble de la crème au pesto.",
+        "Assaisonnez avec du sel et du poivre à votre goût et servez."
+      ],
+      "step_count": 5,
+      "ingredients": [
+        {
+          "raw": "- Blanc de poulet 100 g",
+          "name": "Blanc de poulet",
+          "quantity": 100.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Brocoli 150 g",
+          "name": "Brocoli",
+          "quantity": 150.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Haricots verts 150 g",
+          "name": "Haricots verts",
+          "quantity": 150.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Huile au choix 1 càc",
+          "name": "Huile au choix",
+          "quantity": 1.0,
+          "unit": "càc",
+          "grams": 4.5
+        },
+        {
+          "raw": "- Quinoa, cru 3 càs (30 g)",
+          "name": "Quinoa, cru",
+          "quantity": 3.0,
+          "unit": "càs",
+          "grams": 30.0
+        },
+        {
+          "raw": "- Pesto vert 0,5 càs (7,5 g)",
+          "name": "Pesto vert",
+          "quantity": 0.5,
+          "unit": "càs",
+          "grams": 7.5
+        },
+        {
+          "raw": "- Crème fraîche 15% 1,5 càs (22,5 g)",
+          "name": "Crème fraîche 15%",
+          "quantity": 1.5,
+          "unit": "càs",
+          "grams": 22.5
+        }
+      ],
+      "servings": 1,
+      "source_pdf": "Plan alimentaire 3.PDF",
+      "page_number": 9
+    },
+    {
+      "title": "Ramen de Poulet et Champignons",
+      "steps": [
+        "Faites cuire l'oeuf pendant 8 minutes dans de l'eau bouillante. Une fois cuit, coupez le en deux. Cuisez les nouilles selon les instructions sur l'emballage, puis égouttez et réservez.",
+        "Dans une poêle antiadhésive, faites cuire les champignons et le poulet coupés en lamelles avec la moitié de l'huile. Arrosez de sauce soja et laissez cuire 8 minutes à feu doux. Une fois cuit, réservez dans une assiette de côté. Puis, faites sauter l'oignon haché et le gingembre frais râpé dans le reste d'huile.",
+        "Ajoutez de l'eau et un cube de bouillon de poulet (ou végétal), couvrez et laissez mijoter pendant 10 minutes.",
+        "Assemblez le ramen en plaçant les nouilles cuites égouttées dans votre bouillon. Placez ensuite le poulet et les champignons cuits, ainsi que l'oeuf sur le dessus et dégustez."
+      ],
+      "step_count": 4,
+      "ingredients": [
+        {
+          "raw": "- Blanc de poulet 80 g",
+          "name": "Blanc de poulet",
+          "quantity": 80.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Oeuf, gros 1 u",
+          "name": "Oeuf, gros",
+          "quantity": 1.0,
+          "unit": "u",
+          "grams": null
+        },
+        {
+          "raw": "- Gingembre 20 g",
+          "name": "Gingembre",
+          "quantity": 20.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Sauce soja 2,5 càs",
+          "name": "Sauce soja",
+          "quantity": 2.5,
+          "unit": "càs",
+          "grams": 40.0
+        },
+        {
+          "raw": "- Oignon vert, haché 1,5 càs",
+          "name": "Oignon vert, haché",
+          "quantity": 1.5,
+          "unit": "càs",
+          "grams": 22.5
+        },
+        {
+          "raw": "- Eau 200 ml",
+          "name": "Eau",
+          "quantity": 200.0,
+          "unit": "ml",
+          "grams": null
+        },
+        {
+          "raw": "- Champignon 50 g",
+          "name": "Champignon",
+          "quantity": 50.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Huile de sésame 1,5 càc",
+          "name": "Huile de sésame",
+          "quantity": 1.5,
+          "unit": "càc",
+          "grams": 6.75
+        },
+        {
+          "raw": "- Cube bouillon 1 u",
+          "name": "Cube bouillon",
+          "quantity": 1.0,
+          "unit": "u",
+          "grams": null
+        },
+        {
+          "raw": "- Nouilles de blé, crues 80 g",
+          "name": "Nouilles de blé, crues",
+          "quantity": 80.0,
+          "unit": "g",
+          "grams": null
+        }
+      ],
+      "servings": 1,
+      "source_pdf": "Plan alimentaire 2.PDF",
+      "page_number": 33
+    },
+    {
+      "title": "Rillettes de Thon et Bâtonnets de Carottes",
+      "steps": [
+        "Dans un petit bol, mélangez le thon émietté, la moutarde, le jus de citron et la crème végétale épaisse. Salez et poivrez.",
+        "Coupez la carotte en bâtonnets et trempez dans le thon"
+      ],
+      "step_count": 2,
+      "ingredients": [
+        {
+          "raw": "- Carotte 3 u",
+          "name": "Carotte",
+          "quantity": 3.0,
+          "unit": "u",
+          "grams": null
+        },
+        {
+          "raw": "- Jus de citron 1 càc",
+          "name": "Jus de citron",
+          "quantity": 1.0,
+          "unit": "càc",
+          "grams": 5.2
+        },
+        {
+          "raw": "- Moutarde de Dijon 1 càc",
+          "name": "Moutarde de Dijon",
+          "quantity": 1.0,
+          "unit": "càc",
+          "grams": 5.0
+        },
+        {
+          "raw": "- Thon en boîte 140 g",
+          "name": "Thon en boîte",
+          "quantity": 140.0,
+          "unit": "g",
+          "grams": null
+        }
+      ],
+      "servings": 1,
+      "source_pdf": "Plan alimentaire 4.PDF",
+      "page_number": 10
+    },
+    {
+      "title": "Riz au Steak Haché et Petits Pois",
+      "steps": [
+        "Portez une grande casserole d'eau salée à ébullition et cuisez le riz.",
+        "Pendant ce temps, dans une poêle, chauffez l'huile et faites cuire l'oignon coupé en tranches jusqu'à ce qu'il soit doré et ramolli. (Ajoutez un peu d'eau si besoin, si cela accroche).",
+        "Ajoutez l'ail écrasé et la carotte coupée en dés et continuez la cuisson 5 minutes. Puis, ajoutez le steak haché. Et enfin la suce tomate et les petits pois, et mélangez jusqu'à ce que le tout soit combiné et cuit.",
+        "Ajoutez le riz cuit. Salez, poivrez et mélangez bien, puis servez."
+      ],
+      "step_count": 4,
+      "ingredients": [
+        {
+          "raw": "- Carotte 1 u",
+          "name": "Carotte",
+          "quantity": 1.0,
+          "unit": "u",
+          "grams": null
+        },
+        {
+          "raw": "- Oignon, lamelles 0,5 u",
+          "name": "Oignon, lamelles",
+          "quantity": 0.5,
+          "unit": "u",
+          "grams": null
+        },
+        {
+          "raw": "- Huile au choix 1 càc",
+          "name": "Huile au choix",
+          "quantity": 1.0,
+          "unit": "càc",
+          "grams": 4.5
+        },
+        {
+          "raw": "- Riz, cru 60 g",
+          "name": "Riz, cru",
+          "quantity": 60.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Boeuf 5%, haché 150 g",
+          "name": "Boeuf 5%, haché",
+          "quantity": 150.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Sauce tomate 4 càs",
+          "name": "Sauce tomate",
+          "quantity": 4.0,
+          "unit": "càs",
+          "grams": 62.0
+        },
+        {
+          "raw": "- Petits pois cuits 50 g",
+          "name": "Petits pois cuits",
+          "quantity": 50.0,
+          "unit": "g",
+          "grams": null
+        }
+      ],
+      "servings": 1,
+      "source_pdf": "Plan alimentaire 2.PDF",
+      "page_number": 26
+    },
+    {
+      "title": "Salade César au Poulet",
+      "steps": [
+        "Cuire le poulet à feu moyen dans une poêle antiadhésive avec l'huile pendant environ 10 minutes jusqu'à ce qu'ils soit cuit à point.",
+        "Dans un grand bol, combinez la laitue déchirée, les croutons et les tomates cerises coupées en deux.",
+        "Tranchez le poulet grillé en fines lanières, puis ajoutez-le au bol.",
+        "Ajoutez la vinaigrette César et mélangez la salade jusqu'à ce que chaque ingrédient soit enrobé.",
+        "Servir immédiatement parsemé de parmesan."
+      ],
+      "step_count": 5,
+      "ingredients": [
+        {
+          "raw": "- Blanc de poulet 100 g",
+          "name": "Blanc de poulet",
+          "quantity": 100.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Huile au choix 1 càc",
+          "name": "Huile au choix",
+          "quantity": 1.0,
+          "unit": "càc",
+          "grams": 4.5
+        },
+        {
+          "raw": "- Tomate cerise 150 g",
+          "name": "Tomate cerise",
+          "quantity": 150.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Parmesan 2 càs (10 g)",
+          "name": "Parmesan",
+          "quantity": 2.0,
+          "unit": "càs",
+          "grams": 10.0
+        },
+        {
+          "raw": "- Croutons 2,5 càs (25 g)",
+          "name": "Croutons",
+          "quantity": 2.5,
+          "unit": "càs",
+          "grams": 25.0
+        },
+        {
+          "raw": "- Vinaigrette Caesar 1 càs (15 g)",
+          "name": "Vinaigrette Caesar",
+          "quantity": 1.0,
+          "unit": "càs",
+          "grams": 15.0
+        },
+        {
+          "raw": "- Laitue romaine 100 g",
+          "name": "Laitue romaine",
+          "quantity": 100.0,
+          "unit": "g",
+          "grams": null
+        }
+      ],
+      "servings": 1,
+      "source_pdf": "Plan alimentaire 1.pdf",
+      "page_number": 10,
+      "source_pdf_all": [
+        "Plan alimentaire 1.pdf",
+        "Plan alimentaire 1.PDF"
+      ]
+    },
+    {
+      "title": "Salade d'Été au Quinoa et Poulet",
+      "steps": [
+        "Cuire le quinoa selon les instructions du paquet, laissez-le refroidir.",
+        "Pendant ce temps, cuire le poulet coupé en morceaux dans une poêle antiadhésive. Assaisonnez de sel et poivre.",
+        "Coupez le concombre en rondelles et les tomates cerises en deux.",
+        "Dans un saladier, mélangez le quinoa, les morceaux de poulet, les rondelles de concombre et les tomates cerises. Préparer la vinaigrette en mélangeant l'huile, le vinaigre balsamique, de la moutarde au goût, du sel et du poivre.",
+        "Versez la vinaigrette sur la salade et mélangez bien avant de servir."
+      ],
+      "step_count": 5,
+      "ingredients": [
+        {
+          "raw": "- Blanc de poulet 120 g",
+          "name": "Blanc de poulet",
+          "quantity": 120.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Concombre, en dés 0,5 u",
+          "name": "Concombre, en dés",
+          "quantity": 0.5,
+          "unit": "u",
+          "grams": null
+        },
+        {
+          "raw": "- Huile au choix 1,5 càc",
+          "name": "Huile au choix",
+          "quantity": 1.5,
+          "unit": "càc",
+          "grams": 6.75
+        },
+        {
+          "raw": "- Quinoa, cru 4 càs (40 g)",
+          "name": "Quinoa, cru",
+          "quantity": 4.0,
+          "unit": "càs",
+          "grams": 40.0
+        },
+        {
+          "raw": "- Tomate cerise 150 g",
+          "name": "Tomate cerise",
+          "quantity": 150.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Vinaigre bals. 2 càs",
+          "name": "Vinaigre bals.",
+          "quantity": 2.0,
+          "unit": "càs",
+          "grams": 32.0
+        },
+        {
+          "raw": "- Moutarde de Dijon 0,5 càc",
+          "name": "Moutarde de Dijon",
+          "quantity": 0.5,
+          "unit": "càc",
+          "grams": 2.5
+        }
+      ],
+      "servings": 1,
+      "source_pdf": "Plan alimentaire 4.PDF",
+      "page_number": 16
+    },
+    {
+      "title": "Salade de Couscous au Thon et Carottes",
+      "steps": [
+        "Faites cuire la semoule de couscous selon les instructions du paquet.",
+        "Dans un bol, mélangez l'huile d'olive, l'ail écrasé, le cumin, le sel et le poivre. Ajoutez de l'harissa ou piment si vous le souhaitez.",
+        "Mélangez cette préparation avec le thon émietté. Râpez la carotte et, mélangez-la avec la préparation au thon.",
+        "Dans une assiette, servez le couscous avec le mélange de thon et carottes. Parsemez de coriandre fraîche si souhaité. Carottes"
+      ],
+      "step_count": 4,
+      "ingredients": [
+        {
+          "raw": "- Carotte 1 u",
+          "name": "Carotte",
+          "quantity": 1.0,
+          "unit": "u",
+          "grams": null
+        },
+        {
+          "raw": "- Cumin 1,5 càc",
+          "name": "Cumin",
+          "quantity": 1.5,
+          "unit": "càc",
+          "grams": 7.5
+        },
+        {
+          "raw": "- Piment 0,5 càs",
+          "name": "Piment",
+          "quantity": 0.5,
+          "unit": "càs",
+          "grams": 7.5
+        },
+        {
+          "raw": "- Thon en boîte 140 g",
+          "name": "Thon en boîte",
+          "quantity": 140.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Couscous, cru 80 g",
+          "name": "Couscous, cru",
+          "quantity": 80.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Huile d'olive 3 càc",
+          "name": "Huile d'olive",
+          "quantity": 3.0,
+          "unit": "càc",
+          "grams": 13.5
+        }
+      ],
+      "servings": 1,
+      "source_pdf": "Plan alimentaire 2.PDF",
+      "page_number": 18
+    },
+    {
+      "title": "Salade de Lentilles et Crevettes",
+      "steps": [
+        "Dans un grand bol, ajoutez les feuilles de salade, les lentilles égouttées et les crevettes décortiquées.",
+        "Dans un petit bol, fouettez l'huile, le jus de citron, le vinaigre balsamique, le sel et le poivre.",
+        "Versez la vinaigrette sur la salde et dégustez parsemé de persil frais si souhaité."
+      ],
+      "step_count": 3,
+      "ingredients": [
+        {
+          "raw": "- Huile au choix 1,5 càs",
+          "name": "Huile au choix",
+          "quantity": 1.5,
+          "unit": "càs",
+          "grams": 20.25
+        },
+        {
+          "raw": "- Lentilles cuites 140 g",
+          "name": "Lentilles cuites",
+          "quantity": 140.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Persil frais 1 càs",
+          "name": "Persil frais",
+          "quantity": 1.0,
+          "unit": "càs",
+          "grams": 3.0
+        },
+        {
+          "raw": "- Jus de citron 1,5 càs",
+          "name": "Jus de citron",
+          "quantity": 1.5,
+          "unit": "càs",
+          "grams": 23.25
+        },
+        {
+          "raw": "- Vinaigre bals. 1,5 càs",
+          "name": "Vinaigre bals.",
+          "quantity": 1.5,
+          "unit": "càs",
+          "grams": 24.0
+        },
+        {
+          "raw": "- Salade feuilles 100 g",
+          "name": "Salade feuilles",
+          "quantity": 100.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Crevettes cuites 170 g",
+          "name": "Crevettes cuites",
+          "quantity": 170.0,
+          "unit": "g",
+          "grams": null
+        }
+      ],
+      "servings": 1,
+      "source_pdf": "Plan alimentaire 2.PDF",
+      "page_number": 13
+    },
+    {
+      "title": "Salade de Pâtes au Thon et Légumes",
+      "steps": [
+        "Faites cuire les pâtes dans une casserole d'eau bouillante jusqu'à ce qu'elles soient al dente, généralement 8 à 10 minutes.",
+        "Égouttez les pâtes et laissez-les refroidir.",
+        "Égouttez le thon en conserve.",
+        "Dans un bol, mélangez les pâtes, le légume de votre choix coupé et le thon jusq'à obtenir un mélange homogène. Salez, poivrez et arrosez de la sauce vinaigrette de votre choix. Légumes"
+      ],
+      "step_count": 4,
+      "ingredients": [
+        {
+          "raw": "- Pates fusilli, crues 65 g",
+          "name": "Pates fusilli, crues",
+          "quantity": 65.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Thon en boîte 90 g",
+          "name": "Thon en boîte",
+          "quantity": 90.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Légumes au choix 150 g",
+          "name": "Légumes au choix",
+          "quantity": 150.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Vinaigrette au choix 2 càc (10 g)",
+          "name": "Vinaigrette au choix",
+          "quantity": 2.0,
+          "unit": "càc",
+          "grams": 10.0
+        }
+      ],
+      "servings": 1,
+      "source_pdf": "Plan alimentaire 4.PDF",
+      "page_number": 14
+    },
+    {
+      "title": "Salade de Pommes de Terre, Oeuf",
+      "steps": [
+        "Lavez et coupez les pommes de terre en morceaux. Remplissez une grande casserole d'eau et mettez-la sur le feu. Plongez-y les pommes de terre et portez à ébullition. Dès que l'eau bout, ajoutez les œufs.",
+        "Retirez les œufs au bout de 10 minutes (après ébullition) et passez-les sous l'eau froide. Laissez les pommes de terre cuire encore 5 minutes, jusqu'à ce qu'elles soient tendres. Égouttez-les, puis passez-les également sous l'eau froide.",
+        "Coupez le concombre en demi-lunes, les tomates cerises en deux, et les pommes de terre refroidies en fines rondelles.",
+        "Dans un petit bol, préparez votre vinaigrette avec l'huile, le vinaigre et la ciboulette hachée.",
+        "Mélangez les légumes coupés, les anchois égouttés, les œufs coupés en deux et les pommes de terre dans un saladier. Arrosez de vinaigrette et parsemez de basilic et de ciboulette ciselée, si souhaité. et Anchois"
+      ],
+      "step_count": 5,
+      "ingredients": [
+        {
+          "raw": "- Oeuf, gros 2 u",
+          "name": "Oeuf, gros",
+          "quantity": 2.0,
+          "unit": "u",
+          "grams": null
+        },
+        {
+          "raw": "- Pomme de terre 150 g",
+          "name": "Pomme de terre",
+          "quantity": 150.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Concombre 0,25 u",
+          "name": "Concombre",
+          "quantity": 0.25,
+          "unit": "u",
+          "grams": null
+        },
+        {
+          "raw": "- Huile au choix 1 càc",
+          "name": "Huile au choix",
+          "quantity": 1.0,
+          "unit": "càc",
+          "grams": 4.5
+        },
+        {
+          "raw": "- Basilic frais 1 càs",
+          "name": "Basilic frais",
+          "quantity": 1.0,
+          "unit": "càs",
+          "grams": 15.0
+        },
+        {
+          "raw": "- Laitue 30 g",
+          "name": "Laitue",
+          "quantity": 30.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Tomate cerise 100 g",
+          "name": "Tomate cerise",
+          "quantity": 100.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Vinaigre bals. 1 càs",
+          "name": "Vinaigre bals.",
+          "quantity": 1.0,
+          "unit": "càs",
+          "grams": 16.0
+        },
+        {
+          "raw": "- Anchois (huile), égouttés 35 g",
+          "name": "Anchois (huile), égouttés",
+          "quantity": 35.0,
+          "unit": "g",
+          "grams": null
+        }
+      ],
+      "servings": 1,
+      "source_pdf": "Plan alimentaire 4.PDF",
+      "page_number": 9
+    },
+    {
+      "title": "Salade de Poulet au Quinoa, Canneberges et Feta",
+      "steps": [
+        "Faite bouillir de l'eau dans une casserole et cuire le quinoa. Chauffez l'huile dans une casserole à feu moyen et cuire le poulet jusqu'à ce qu'il soit bien cuit.",
+        "Dans un grand bol, mélangez la laitue, le quinoa cuit égoutté, le concombre et les cranberries.",
+        "Ajouter le poulet cuit coupé en lanières et la feta. Assaisonnez à votre goût.",
+        "Mélangez dans un bol le vinaigre balsamique et le jus de citron. Arrosez votre salade de la vinaigrette. Canneberges et Feta"
+      ],
+      "step_count": 4,
+      "ingredients": [
+        {
+          "raw": "- Blanc de poulet 120 g",
+          "name": "Blanc de poulet",
+          "quantity": 120.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Concombre, en dés 0,5 u",
+          "name": "Concombre, en dés",
+          "quantity": 0.5,
+          "unit": "u",
+          "grams": null
+        },
+        {
+          "raw": "- Huile au choix 0,5 càc",
+          "name": "Huile au choix",
+          "quantity": 0.5,
+          "unit": "càc",
+          "grams": 2.25
+        },
+        {
+          "raw": "- Quinoa, cru 30 g",
+          "name": "Quinoa, cru",
+          "quantity": 30.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Feta 30 g",
+          "name": "Feta",
+          "quantity": 30.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Canneberges séchées 1 càs (10 g)",
+          "name": "Canneberges séchées",
+          "quantity": 1.0,
+          "unit": "càs",
+          "grams": 10.0
+        },
+        {
+          "raw": "- Jus de citron 1 càs",
+          "name": "Jus de citron",
+          "quantity": 1.0,
+          "unit": "càs",
+          "grams": 15.5
+        },
+        {
+          "raw": "- Vinaigre bals. 1 càs",
+          "name": "Vinaigre bals.",
+          "quantity": 1.0,
+          "unit": "càs",
+          "grams": 16.0
+        },
+        {
+          "raw": "- Laitue romaine 50 g",
+          "name": "Laitue romaine",
+          "quantity": 50.0,
+          "unit": "g",
+          "grams": null
+        }
+      ],
+      "servings": 1,
+      "source_pdf": "Plan alimentaire 4.PDF",
+      "page_number": 41
+    },
+    {
+      "title": "Salade de Sardines, Tomates et",
+      "steps": [
+        "Coupez la tomate en morceaux. Égouttez la feta et les sardines.",
+        "Dans un petit bol, fouettez ensemble le vinaigre balsamique, la moutarde, du sel et du poivre.",
+        "Dans un assiette, placez la salade et agrémentez-la de morceaux de tomate, feta et sardines.",
+        "Versez l sauce balsamique sur le dessus et dégustez. Feta"
+      ],
+      "step_count": 4,
+      "ingredients": [
+        {
+          "raw": "- Tomate 2 u",
+          "name": "Tomate",
+          "quantity": 2.0,
+          "unit": "u",
+          "grams": null
+        },
+        {
+          "raw": "- Feta 20 g",
+          "name": "Feta",
+          "quantity": 20.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Vinaigre bals. 1 càs",
+          "name": "Vinaigre bals.",
+          "quantity": 1.0,
+          "unit": "càs",
+          "grams": 16.0
+        },
+        {
+          "raw": "- Salade feuilles 100 g",
+          "name": "Salade feuilles",
+          "quantity": 100.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Moutarde de Dijon 0,5 càc",
+          "name": "Moutarde de Dijon",
+          "quantity": 0.5,
+          "unit": "càc",
+          "grams": 2.5
+        },
+        {
+          "raw": "- Sardines, boîte 150 g",
+          "name": "Sardines, boîte",
+          "quantity": 150.0,
+          "unit": "g",
+          "grams": null
+        }
+      ],
+      "servings": 1,
+      "source_pdf": "Plan alimentaire 3.PDF",
+      "page_number": 25
+    },
+    {
+      "title": "Salade Grecque de Poulet et Feta",
+      "steps": [
+        "Assaisonnez le blanc de poulet de sel, poivre et d'origan. Faites cuire dans une poêle antiadhésive avec l'huile jusqu'à ce qu'il ne soit plus rose au milieu, environ 5-6 minutes de chaque côté.",
+        "Mélangez la laitue hachée, les tomates cerises et le concombre dans un bol.",
+        "Coupez le poulet grillé en dés et ajoutez à la salade. Émiettez le fromage feta sur la salade. Dans un petit bol, fouettez le vinaigre balsamique et le jus de citron avec du sel et poivre et arrosez votre salade de la vinaigrette."
+      ],
+      "step_count": 3,
+      "ingredients": [
+        {
+          "raw": "- Blanc de poulet 100 g",
+          "name": "Blanc de poulet",
+          "quantity": 100.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Concombre 0,5 u",
+          "name": "Concombre",
+          "quantity": 0.5,
+          "unit": "u",
+          "grams": null
+        },
+        {
+          "raw": "- Huile au choix 0,5 càs",
+          "name": "Huile au choix",
+          "quantity": 0.5,
+          "unit": "càs",
+          "grams": 6.75
+        },
+        {
+          "raw": "- Origan séché 1 càc",
+          "name": "Origan séché",
+          "quantity": 1.0,
+          "unit": "càc",
+          "grams": 5.0
+        },
+        {
+          "raw": "- Feta 30 g",
+          "name": "Feta",
+          "quantity": 30.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Pain complet 1 tr (32 g)",
+          "name": "Pain complet",
+          "quantity": 1.0,
+          "unit": "tr",
+          "grams": 32.0
+        },
+        {
+          "raw": "- Tomate cerise 100 g",
+          "name": "Tomate cerise",
+          "quantity": 100.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Jus de citron 1 càs",
+          "name": "Jus de citron",
+          "quantity": 1.0,
+          "unit": "càs",
+          "grams": 15.5
+        },
+        {
+          "raw": "- Vinaigre bals. 1 càs",
+          "name": "Vinaigre bals.",
+          "quantity": 1.0,
+          "unit": "càs",
+          "grams": 16.0
+        },
+        {
+          "raw": "- Laitue romaine 150 g",
+          "name": "Laitue romaine",
+          "quantity": 150.0,
+          "unit": "g",
+          "grams": null
+        }
+      ],
+      "servings": 1,
+      "source_pdf": "Plan alimentaire 4.PDF",
+      "page_number": 31
+    },
+    {
+      "title": "Salade Méditerranéenne de Poulet",
+      "steps": [
+        "Vinaigre bals. 1 càs- Oignon rouge 0,25 u",
+        "Coupez le poulet en lamelles.",
+        "Chauffez l'huile dans une casserole antiadhésive et faites sauter le poulet jusqu'à ce qu'il soit bien cuit. Salez, poivrez.",
+        "Dans un bol, mélangez le vinaigre balsamique, le jus de citron, du sel et du poivre.",
+        "Placez dans une assiette creuse les tomates cerises coupées en deux, l'oignon coupé en dés, le persil, les pois chiches égouttés et le poulet cuit.",
+        "Arrosez de la sauce balsamique-citron et mélangez doucement pour combiner tous les ingrédients.",
+        "Laissez reposer la salade pour fusionner les saveurs et dégustez. aux Pois Chiches"
+      ],
+      "step_count": 7,
+      "ingredients": [
+        {
+          "raw": "- Blanc de poulet 175 g",
+          "name": "Blanc de poulet",
+          "quantity": 175.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Huile au choix 1,5 càc",
+          "name": "Huile au choix",
+          "quantity": 1.5,
+          "unit": "càc",
+          "grams": 6.75
+        },
+        {
+          "raw": "- Persil frais 1 càc",
+          "name": "Persil frais",
+          "quantity": 1.0,
+          "unit": "càc",
+          "grams": 1.0
+        },
+        {
+          "raw": "- Pois chiche, boîte 100 g",
+          "name": "Pois chiche, boîte",
+          "quantity": 100.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Tomate cerise 150 g",
+          "name": "Tomate cerise",
+          "quantity": 150.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Jus de citron 1 càs",
+          "name": "Jus de citron",
+          "quantity": 1.0,
+          "unit": "càs",
+          "grams": 15.5
+        },
+        {
+          "raw": "- Vinaigre bals. 1 càs",
+          "name": "Vinaigre bals.",
+          "quantity": 1.0,
+          "unit": "càs",
+          "grams": 16.0
+        },
+        {
+          "raw": "- Oignon rouge 0,25 u",
+          "name": "Oignon rouge",
+          "quantity": 0.25,
+          "unit": "u",
+          "grams": null
+        }
+      ],
+      "servings": 1,
+      "source_pdf": "Plan alimentaire 4.PDF",
+      "page_number": 36
+    },
+    {
+      "title": "Salade Tian de Tomates-Mozza et Jambon Cru",
+      "steps": [
+        "Vinaigre bals. 1 càs- Jambon sec 60 g- Pesto vert 2 càc (10 g)",
+        "Rincez et coupez les tomates en rondelles. Coupez la mozzarella en fines rondelles.",
+        "Dans un plat ou une grande assiette, disposez les tomates et la mozzarella en cercle. Salez, poivrez.",
+        "Parsemez de jambon cru coupé en tranches et de feuilles de basilic. Arrosez d'huile, de pesto et de vinaigre balsamique. Jambon Cru"
+      ],
+      "step_count": 4,
+      "ingredients": [
+        {
+          "raw": "- Tomate 3 u",
+          "name": "Tomate",
+          "quantity": 3.0,
+          "unit": "u",
+          "grams": null
+        },
+        {
+          "raw": "- Huile au choix 1 càc",
+          "name": "Huile au choix",
+          "quantity": 1.0,
+          "unit": "càc",
+          "grams": 4.5
+        },
+        {
+          "raw": "- Mozzarella, tranche 70 g",
+          "name": "Mozzarella, tranche",
+          "quantity": 70.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Vinaigre bals. 1 càs",
+          "name": "Vinaigre bals.",
+          "quantity": 1.0,
+          "unit": "càs",
+          "grams": 16.0
+        },
+        {
+          "raw": "- Jambon sec 60 g",
+          "name": "Jambon sec",
+          "quantity": 60.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Pesto vert 2 càc (10 g)",
+          "name": "Pesto vert",
+          "quantity": 2.0,
+          "unit": "càc",
+          "grams": 10.0
+        }
+      ],
+      "servings": 1,
+      "source_pdf": "Plan alimentaire 3.PDF",
+      "page_number": 13
+    },
+    {
+      "title": "Sandwich au Jambon",
+      "steps": [
+        "Faites griller le pain. Étalez le beurre sur chaque tranche de pain. Placez la salade, les rondelles de tomate, le fromage et le jambon sur une tranche.",
+        "Refermez le sandwich avec la deuxième tranche"
+      ],
+      "step_count": 2,
+      "ingredients": [
+        {
+          "raw": "- Tomate 1 u",
+          "name": "Tomate",
+          "quantity": 1.0,
+          "unit": "u",
+          "grams": null
+        },
+        {
+          "raw": "- Emmental 2 tr (20 g)",
+          "name": "Emmental",
+          "quantity": 2.0,
+          "unit": "tr",
+          "grams": 20.0
+        },
+        {
+          "raw": "- Pain complet 2 tr (64 g)",
+          "name": "Pain complet",
+          "quantity": 2.0,
+          "unit": "tr",
+          "grams": 64.0
+        },
+        {
+          "raw": "- Beurre mou 1 càc (5 g)",
+          "name": "Beurre mou",
+          "quantity": 1.0,
+          "unit": "càc",
+          "grams": 5.0
+        },
+        {
+          "raw": "- Jambon 3 tr (120 g)",
+          "name": "Jambon",
+          "quantity": 3.0,
+          "unit": "tr",
+          "grams": 120.0
+        }
+      ],
+      "servings": 1,
+      "source_pdf": "Plan alimentaire 3.PDF",
+      "page_number": 12
+    },
+    {
+      "title": "Sandwich au Jambon et à la Carotte",
+      "steps": [
+        "Faites griller le pain. Étalez le beurre sur chaque tranche de pain. Placez la salade, la carotte râpée, le fromage et le jambon sur une tranche.",
+        "Refermez le sandwich avec la deuxième tranche"
+      ],
+      "step_count": 2,
+      "ingredients": [
+        {
+          "raw": "- Carotte 1,5 u",
+          "name": "Carotte",
+          "quantity": 1.5,
+          "unit": "u",
+          "grams": null
+        },
+        {
+          "raw": "- Emmental 2 tr (20 g)",
+          "name": "Emmental",
+          "quantity": 2.0,
+          "unit": "tr",
+          "grams": 20.0
+        },
+        {
+          "raw": "- Pain complet 2 tr (64 g)",
+          "name": "Pain complet",
+          "quantity": 2.0,
+          "unit": "tr",
+          "grams": 64.0
+        },
+        {
+          "raw": "- Beurre mou 1 càc (5 g)",
+          "name": "Beurre mou",
+          "quantity": 1.0,
+          "unit": "càc",
+          "grams": 5.0
+        },
+        {
+          "raw": "- Jambon 2,5 tr (100 g)",
+          "name": "Jambon",
+          "quantity": 2.5,
+          "unit": "tr",
+          "grams": 100.0
+        }
+      ],
+      "servings": 1,
+      "source_pdf": "Plan alimentaire 3.PDF",
+      "page_number": 16
+    },
+    {
+      "title": "Skyr et Fruit au Choix",
+      "steps": [
+        "Dans un bol, mélangez le skyr avec du miel ou du sirop d’agave, puis ajoutez un fruit de votre choix"
+      ],
+      "step_count": 1,
+      "ingredients": [
+        {
+          "raw": "- Miel (ou agave) 1 càc",
+          "name": "Miel (ou agave)",
+          "quantity": 1.0,
+          "unit": "càc",
+          "grams": 6.7
+        },
+        {
+          "raw": "- Fruit au choix 1 u",
+          "name": "Fruit au choix",
+          "quantity": 1.0,
+          "unit": "u",
+          "grams": null
+        },
+        {
+          "raw": "- Skyr nature 200 g",
+          "name": "Skyr nature",
+          "quantity": 200.0,
+          "unit": "g",
+          "grams": null
+        }
+      ],
+      "servings": 1,
+      "source_pdf": "Plan alimentaire 4.PDF",
+      "page_number": 20
+    },
+    {
+      "title": "Soupe de Courge Butternut à la Ricotta",
+      "steps": [
+        "Préchauffez le four à 180 °C (350 °F).",
+        "Épluchez la courge butternut, retirez les graines et coupez-la en gros morceaux. Disposez-les sur une plaque de cuisson avec les gousses d'ail écrasées.",
+        "Assaisonnez généreusement d'huile d'olive, sel et poivre.",
+        "Enfournez pendant 40 minutes jusqu'à ce qu'ils soient tendres. Transférez la courge butternut rôtie et l'ail dans une cocotte. À l'aide d'un mixeur plongeant, mixez le mélange en ajoutant progressivement du bouillon de légumes chaud jusqu'à obtention de la consistance souhaitée.",
+        "Incorporez la ricotta et assaisonnez avec du sel et du poivre selon votre goût.",
+        "Servez avec du pain chaud et des tranches de viande de grison. Ricotta"
+      ],
+      "step_count": 6,
+      "ingredients": [
+        {
+          "raw": "- Pain complet 1,5 tr (48 g)",
+          "name": "Pain complet",
+          "quantity": 1.5,
+          "unit": "tr",
+          "grams": 48.0
+        },
+        {
+          "raw": "- Cube bouillon 1 u",
+          "name": "Cube bouillon",
+          "quantity": 1.0,
+          "unit": "u",
+          "grams": null
+        },
+        {
+          "raw": "- Ricotta 3 càs (45 g)",
+          "name": "Ricotta",
+          "quantity": 3.0,
+          "unit": "càs",
+          "grams": 45.0
+        },
+        {
+          "raw": "- Viande des grisons 6 tr (48 g)",
+          "name": "Viande des grisons",
+          "quantity": 6.0,
+          "unit": "tr",
+          "grams": 48.0
+        },
+        {
+          "raw": "- Butternut 0,5 u (500 g)",
+          "name": "Butternut",
+          "quantity": 0.5,
+          "unit": "u",
+          "grams": 500.0
+        }
+      ],
+      "servings": 1,
+      "source_pdf": "Plan alimentaire 2.PDF",
+      "page_number": 14
+    },
+    {
+      "title": "Spaghettis Crémeux à la Courge Butternut & Bacon",
+      "steps": [
+        "Coupez la courge butternut en deux, retirez les graines à la cuillère et pelez-la. Coupez la chair en morceaux.",
+        "Mettez les morceaux de butternut dans un plat allant au micro-ondes recouvert d'un papier film et faites cuire à puissance maximale pendant 10 minutes jusqu'à tendre.",
+        "Pendant ce temps, faites cuire les spaghettis dans de l'eau bouillante et les allumettes de bacon dans une poêle antiadhésive.",
+        "Mixez la courge cuite avec de la crème, du sel et du poivre jusqu'à obtenir un mélange lisse.",
+        "Égouttez les pâtes et les mélanger avec la sauce à la courge et les allumettes de bacon. Butternut & Bacon"
+      ],
+      "step_count": 5,
+      "ingredients": [
+        {
+          "raw": "- Spaghetti, cru 80 g",
+          "name": "Spaghetti, cru",
+          "quantity": 80.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Crème végétale 80 ml",
+          "name": "Crème végétale",
+          "quantity": 80.0,
+          "unit": "ml",
+          "grams": null
+        },
+        {
+          "raw": "- Butternut 200 g",
+          "name": "Butternut",
+          "quantity": 200.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Bacon, allumettes 100 g",
+          "name": "Bacon, allumettes",
+          "quantity": 100.0,
+          "unit": "g",
+          "grams": null
+        }
+      ],
+      "servings": 1,
+      "source_pdf": "Plan alimentaire 2.PDF",
+      "page_number": 22
+    },
+    {
+      "title": "Steak Haché à la Mozzarella",
+      "steps": [
+        "Faites bouillir de l'eau dans une casserole et faites cuire les pâtes.",
+        "Pendant ce temps, chauffer l'huile dans une poêle antiadhésive et cuire le steak haché.",
+        "Réchauffez également les haricots verts précuits dans la même poêle.",
+        "Une fois le dessous du steak haché cuit, retournez-le et ajoutez de la mozzarella sur le dessus.",
+        "Laissez cuire dans la poêle jusqu'à cuisson du steak souhaité, ou continuez la cuisson du steak 5 minutes au four à 200° pour faire gratiner le fromage.",
+        "Placez le steak cuit dans une assiette. Égouttez les pâtes et les mettre dans la poêle avec les haricots verts en ajoutant la sauce tomate pour 2 minutes. Assaisonnez à votre souhait.",
+        "Ajoutez les pâtes et les haricots vert dans l'assiette."
+      ],
+      "step_count": 7,
+      "ingredients": [
+        {
+          "raw": "- Haricots verts 100 g",
+          "name": "Haricots verts",
+          "quantity": 100.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Huile au choix 0,5 càc",
+          "name": "Huile au choix",
+          "quantity": 0.5,
+          "unit": "càc",
+          "grams": 2.25
+        },
+        {
+          "raw": "- Mozzarella, tranche 20 g",
+          "name": "Mozzarella, tranche",
+          "quantity": 20.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Pates fusilli, crues 50 g",
+          "name": "Pates fusilli, crues",
+          "quantity": 50.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Boeuf 5%, haché 100 g",
+          "name": "Boeuf 5%, haché",
+          "quantity": 100.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Sauce tomate 2 càs",
+          "name": "Sauce tomate",
+          "quantity": 2.0,
+          "unit": "càs",
+          "grams": 31.0
+        }
+      ],
+      "servings": 1,
+      "source_pdf": "Plan alimentaire 1.pdf",
+      "page_number": 20,
+      "source_pdf_all": [
+        "Plan alimentaire 1.pdf",
+        "Plan alimentaire 1.PDF"
+      ]
+    },
+    {
+      "title": "Steak Haché et Pommes de Terre à",
+      "steps": [
+        "Coupez la pomme de terre en petit morceaux et cuire dans une casserole d'eau bouillante.",
+        "Pendant ce temps, chauffer l'huile dans une grande poêle antiadhésive, cuisez l'ail émincé et réchauffez les haricots verts précuits.",
+        "Une fois les pommes de terre cuites, égouttez-les et les ajouter à la poêle pour les faire dorer. Puis, dans la même poêle faites une place au centre pour faire cuire le steak haché.",
+        "Placez le tout dans une assiette. Assaisonnez à votre souhait. l'Ail"
+      ],
+      "step_count": 4,
+      "ingredients": [
+        {
+          "raw": "- Haricots verts 200 g",
+          "name": "Haricots verts",
+          "quantity": 200.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Pomme de terre 170 g",
+          "name": "Pomme de terre",
+          "quantity": 170.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Huile au choix 2 càc",
+          "name": "Huile au choix",
+          "quantity": 2.0,
+          "unit": "càc",
+          "grams": 9.0
+        },
+        {
+          "raw": "- Boeuf 5%, haché 125 g",
+          "name": "Boeuf 5%, haché",
+          "quantity": 125.0,
+          "unit": "g",
+          "grams": null
+        }
+      ],
+      "servings": 1,
+      "source_pdf": "Plan alimentaire 3.PDF",
+      "page_number": 21
+    },
+    {
+      "title": "Tartare de Boeuf avec Frites de Patate Douce",
+      "steps": [
+        "Préchauffez votre four à 180°C (356°F) en mode chaleur tournante.",
+        "Coupez la patate douce en forme de frites. Mettez-les dans un bol et ajoutez l'huile d'olive.",
+        "Mélangez bien pour enrober chaque frite d'huile. Salez, poivrez, ou assaisonnez avec les épices de votre choix.",
+        "Placez-les sur une plaque de cuisson recouverte de papier sulfurisé, en les disposant côte à côte.",
+        "Faites cuire au four pendant 20 à 25 minutes.",
+        "Pendant ce temps, coupez le bœuf en très petits morceaux ou hachez-le. Pelez et ciselez finement l'échalote. Ciselez finement la ciboulette.",
+        "Mélangez le bœuf avec l'échalote, la ciboulette, les câpres, la moutarde, le ketchup et quelques gouttes de sauce pimentée (facultatif). Salez, poivrez selon votre goût.",
+        "Servez aussitôt avec un jaune d'œuf sur le dessus, vos frites de patate douce et votre salade assaisonnée de vinaigre balsamique. Patate Douce"
+      ],
+      "step_count": 8,
+      "ingredients": [
+        {
+          "raw": "- Patate douce 180 g",
+          "name": "Patate douce",
+          "quantity": 180.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Huile au choix 2 càc",
+          "name": "Huile au choix",
+          "quantity": 2.0,
+          "unit": "càc",
+          "grams": 9.0
+        },
+        {
+          "raw": "- Bifteck 125 g",
+          "name": "Bifteck",
+          "quantity": 125.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Câpres 0,5 càs",
+          "name": "Câpres",
+          "quantity": 0.5,
+          "unit": "càs",
+          "grams": 7.5
+        },
+        {
+          "raw": "- Vinaigre bals. 1,5 càs",
+          "name": "Vinaigre bals.",
+          "quantity": 1.5,
+          "unit": "càs",
+          "grams": 24.0
+        },
+        {
+          "raw": "- Salade feuilles 40 g",
+          "name": "Salade feuilles",
+          "quantity": 40.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Moutarde de Dijon 0,5 càc",
+          "name": "Moutarde de Dijon",
+          "quantity": 0.5,
+          "unit": "càc",
+          "grams": 2.5
+        },
+        {
+          "raw": "- Ketchup 1 càs",
+          "name": "Ketchup",
+          "quantity": 1.0,
+          "unit": "càs",
+          "grams": 15.0
+        },
+        {
+          "raw": "- Echalote 0,5 u",
+          "name": "Echalote",
+          "quantity": 0.5,
+          "unit": "u",
+          "grams": null
+        },
+        {
+          "raw": "- Jaune d'oeuf 1 u",
+          "name": "Jaune d'oeuf",
+          "quantity": 1.0,
+          "unit": "u",
+          "grams": null
+        }
+      ],
+      "servings": 1,
+      "source_pdf": "Plan alimentaire 3.PDF",
+      "page_number": 29
+    },
+    {
+      "title": "Tartine au Yaourt et Baies",
+      "steps": [
+        "Grillez le pain complet au grille-pain.",
+        "Étalez une couche de yaourt sur le pain grillé.",
+        "Ajoutez une généreuse portion de fruits rouges sur le yaourt.",
+        "Arrosez d'un filet de miel et servez immédiatement"
+      ],
+      "step_count": 4,
+      "ingredients": [
+        {
+          "raw": "- Miel (ou agave) 1 càc",
+          "name": "Miel (ou agave)",
+          "quantity": 1.0,
+          "unit": "càc",
+          "grams": 6.7
+        },
+        {
+          "raw": "- Pain complet 3 tr (96 g)",
+          "name": "Pain complet",
+          "quantity": 3.0,
+          "unit": "tr",
+          "grams": 96.0
+        },
+        {
+          "raw": "- Yaourt grec 0% 12 càs (180 g)",
+          "name": "Yaourt grec 0%",
+          "quantity": 12.0,
+          "unit": "càs",
+          "grams": 180.0
+        },
+        {
+          "raw": "- Fruits rouges 9 càs (90 g)",
+          "name": "Fruits rouges",
+          "quantity": 9.0,
+          "unit": "càs",
+          "grams": 90.0
+        }
+      ],
+      "servings": 1,
+      "source_pdf": "Plan alimentaire 4.PDF",
+      "page_number": 23
+    },
+    {
+      "title": "Tartine aux Haricots Blancs et Oeuf",
+      "steps": [
+        "Chauffez l'huile dans une poêle antiadhésive et cuisez l'oeuf au plat, assaisonnez de sel et de poivre et mettez de côté.",
+        "Dans la même poêle, ajoutez les haricots blancs avec la gousse d'ail hachée, les tomates concassées, du sel et du poivre. Bien remuer et cuisez pendant 4-5 minutes.",
+        "Pendant la cuisson du mélange de haricots, grillez le pain complet dans un grille-pain.",
+        "Servez le mélange de haricots blancs et tomate avec le pain grillé et l'oeuf au plat.Tartine aux Haricots Blancs et Oeuf au Plat"
+      ],
+      "step_count": 4,
+      "ingredients": [
+        {
+          "raw": "- Oeuf, gros 2 u",
+          "name": "Oeuf, gros",
+          "quantity": 2.0,
+          "unit": "u",
+          "grams": null
+        },
+        {
+          "raw": "- Huile au choix 1 càc",
+          "name": "Huile au choix",
+          "quantity": 1.0,
+          "unit": "càc",
+          "grams": 4.5
+        },
+        {
+          "raw": "- Pain complet 2 tr (64 g)",
+          "name": "Pain complet",
+          "quantity": 2.0,
+          "unit": "tr",
+          "grams": 64.0
+        },
+        {
+          "raw": "- Tomates concassées 50 g",
+          "name": "Tomates concassées",
+          "quantity": 50.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Haricots blancs, boîte 100 g",
+          "name": "Haricots blancs, boîte",
+          "quantity": 100.0,
+          "unit": "g",
+          "grams": null
+        }
+      ],
+      "servings": 1,
+      "source_pdf": "Plan alimentaire 3.PDF",
+      "page_number": 20
+    },
+    {
+      "title": "Tartine de Sardines et Crème Citronnée",
+      "steps": [
+        "Faites griller le pain complet dans un grille-pain.",
+        "Mélangez la crème avec le jus de citron, la ciboulette et l’échalote ciselée, salez, poivrez.",
+        "Disposez sur la tartine de pain la crème fraiche épaisse et les sardines au naturel égouttées et arrosez d'un filet d'huile d'olive. Puis, décorez votre tartine de ciboulette et de zeste de citron"
+      ],
+      "step_count": 3,
+      "ingredients": [
+        {
+          "raw": "- Huile au choix 0,5 càc",
+          "name": "Huile au choix",
+          "quantity": 0.5,
+          "unit": "càc",
+          "grams": 2.25
+        },
+        {
+          "raw": "- Citron 0,5 u",
+          "name": "Citron",
+          "quantity": 0.5,
+          "unit": "u",
+          "grams": null
+        },
+        {
+          "raw": "- Pain complet 1 tr (32 g)",
+          "name": "Pain complet",
+          "quantity": 1.0,
+          "unit": "tr",
+          "grams": 32.0
+        },
+        {
+          "raw": "- Crème fraîche 30% 30 g",
+          "name": "Crème fraîche 30%",
+          "quantity": 30.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Sardines, boîte 60 g",
+          "name": "Sardines, boîte",
+          "quantity": 60.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Echalote 0,5 u",
+          "name": "Echalote",
+          "quantity": 0.5,
+          "unit": "u",
+          "grams": null
+        }
+      ],
+      "servings": 1,
+      "source_pdf": "Plan alimentaire 2.PDF",
+      "page_number": 20
+    },
+    {
+      "title": "Tataki de Thon au Sésame et Légumes",
+      "steps": [
+        "Dans un bol, ajoutez le jus de citron vert, la moitié de l'huile de sésame, le miel puis salez et poivrez.",
+        "Mélanger.",
+        "Laissez mariner le steak de thon dans le mélange pendant 10 minutes.",
+        "Versez les graines de sésame dans une assiette puis déposez les steaks de thon sur le dessus.",
+        "Dans une poêle, ajoutez le reste de l'huile.",
+        "Faire cuire le thon à feu vif pendant 30 secondes de chaque côté puis retirez de la poêle.",
+        "Garnir le tout d'oignon vert et servir avec de la sauce soja et le légume choisi (cru ou cuit, selon votre choix). Légumes"
+      ],
+      "step_count": 7,
+      "ingredients": [
+        {
+          "raw": "- Miel (ou agave) 2 càc",
+          "name": "Miel (ou agave)",
+          "quantity": 2.0,
+          "unit": "càc",
+          "grams": 13.4
+        },
+        {
+          "raw": "- Thon, steak 150 g",
+          "name": "Thon, steak",
+          "quantity": 150.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Sauce soja 1 càs",
+          "name": "Sauce soja",
+          "quantity": 1.0,
+          "unit": "càs",
+          "grams": 16.0
+        },
+        {
+          "raw": "- Graines de sésame 2 càs (20 g)",
+          "name": "Graines de sésame",
+          "quantity": 2.0,
+          "unit": "càs",
+          "grams": 20.0
+        },
+        {
+          "raw": "- Jus de citron 1 càs",
+          "name": "Jus de citron",
+          "quantity": 1.0,
+          "unit": "càs",
+          "grams": 15.5
+        },
+        {
+          "raw": "- Oignon vert, haché 1 càs",
+          "name": "Oignon vert, haché",
+          "quantity": 1.0,
+          "unit": "càs",
+          "grams": 15.0
+        },
+        {
+          "raw": "- Huile de sésame 2 càc",
+          "name": "Huile de sésame",
+          "quantity": 2.0,
+          "unit": "càc",
+          "grams": 9.0
+        },
+        {
+          "raw": "- Légumes au choix 100 g",
+          "name": "Légumes au choix",
+          "quantity": 100.0,
+          "unit": "g",
+          "grams": null
+        }
+      ],
+      "servings": 1,
+      "source_pdf": "Plan alimentaire 1.pdf",
+      "page_number": 21,
+      "source_pdf_all": [
+        "Plan alimentaire 1.pdf",
+        "Plan alimentaire 1.PDF"
+      ]
+    },
+    {
+      "title": "Toast à l'Houmous et Oeuf au Plat",
+      "steps": [
+        "Faites friller le pain au grille -pain.",
+        "Pendant ce temps, faites chauffer l'huile dans une poêle antiadhésive.",
+        "Cuire l'oeuf au plat dans la poêle, salez, poivrez.",
+        "Étalez le houmous sur le pain et ajoutez l'oeuf cuit sur le dessus. Ajoutez un peu de paprika si souhaité et dégustez"
+      ],
+      "step_count": 4,
+      "ingredients": [
+        {
+          "raw": "- Oeuf, gros 2 u",
+          "name": "Oeuf, gros",
+          "quantity": 2.0,
+          "unit": "u",
+          "grams": null
+        },
+        {
+          "raw": "- Huile au choix 1 càc",
+          "name": "Huile au choix",
+          "quantity": 1.0,
+          "unit": "càc",
+          "grams": 4.5
+        },
+        {
+          "raw": "- Pain complet 2 tr (64 g)",
+          "name": "Pain complet",
+          "quantity": 2.0,
+          "unit": "tr",
+          "grams": 64.0
+        },
+        {
+          "raw": "- Houmous 2,5 càs (37,5 g)",
+          "name": "Houmous",
+          "quantity": 2.5,
+          "unit": "càs",
+          "grams": 37.5
+        }
+      ],
+      "servings": 1,
+      "source_pdf": "Plan alimentaire 3.PDF",
+      "page_number": 24
+    },
+    {
+      "title": "Toast au Fromage Blanc, Figue et",
+      "steps": [
+        "Faites griller le pain au grille-pain.",
+        "Étalez le yaourt sur la tranche de pain.",
+        "Disposez les figues tranchées sur le yaourt. Saupoudrez les feuilles de thym frais sur les figues et arrosez de miel avant de servir.Toast au Fromage Blanc, Figue et Thym"
+      ],
+      "step_count": 3,
+      "ingredients": [
+        {
+          "raw": "- Miel (ou agave) 1 càc",
+          "name": "Miel (ou agave)",
+          "quantity": 1.0,
+          "unit": "càc",
+          "grams": 6.7
+        },
+        {
+          "raw": "- Thym frais 1 càc",
+          "name": "Thym frais",
+          "quantity": 1.0,
+          "unit": "càc",
+          "grams": 5.0
+        },
+        {
+          "raw": "- Figue, tranches 3 u",
+          "name": "Figue, tranches",
+          "quantity": 3.0,
+          "unit": "u",
+          "grams": null
+        },
+        {
+          "raw": "- Pain complet 2 tr (64 g)",
+          "name": "Pain complet",
+          "quantity": 2.0,
+          "unit": "tr",
+          "grams": 64.0
+        },
+        {
+          "raw": "- Fromage blanc 0% 6 càs (78 g)",
+          "name": "Fromage blanc 0%",
+          "quantity": 6.0,
+          "unit": "càs",
+          "grams": 78.0
+        }
+      ],
+      "servings": 1,
+      "source_pdf": "Plan alimentaire 2.PDF",
+      "page_number": 8
+    },
+    {
+      "title": "Toast au Saumon Fumé et Yaourt",
+      "steps": [
+        "Grillez le pain au grille pain. Laissez refroidir et étalez le yaourt sur le pain.",
+        "Garnissez de tranches de saumon fumé.",
+        "Garnissez avec des tranches de concombre (ou servez en accompagnement avec du vinaigre balsamique) et saupoudrez d'aneth.",
+        "Servez immédiatement.Toast au Saumon Fumé et Yaourt Grec"
+      ],
+      "step_count": 4,
+      "ingredients": [
+        {
+          "raw": "- Concombre, lamelles 0,5 u",
+          "name": "Concombre, lamelles",
+          "quantity": 0.5,
+          "unit": "u",
+          "grams": null
+        },
+        {
+          "raw": "- Saumon fumé 70 g",
+          "name": "Saumon fumé",
+          "quantity": 70.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Aneth frais 1 càc",
+          "name": "Aneth frais",
+          "quantity": 1.0,
+          "unit": "càc",
+          "grams": 1.0
+        },
+        {
+          "raw": "- Pain complet 1 tr (32 g)",
+          "name": "Pain complet",
+          "quantity": 1.0,
+          "unit": "tr",
+          "grams": 32.0
+        },
+        {
+          "raw": "- Yaourt grec 0% 2 càs (30 g)",
+          "name": "Yaourt grec 0%",
+          "quantity": 2.0,
+          "unit": "càs",
+          "grams": 30.0
+        }
+      ],
+      "servings": 1,
+      "source_pdf": "Plan alimentaire 1.pdf",
+      "page_number": 9,
+      "source_pdf_all": [
+        "Plan alimentaire 1.pdf",
+        "Plan alimentaire 1.PDF"
+      ]
+    },
+    {
+      "title": "Toast aux Œufs Brouillés et Champignons",
+      "steps": [
+        "Battez les œufs dans un bol et assaisonnez de sel et de poivre.",
+        "Chauffez une poêle antiadhésive à feu moyen et ajoutez l'huile.",
+        "Ajoutez les champignons tranchés et faites cuire jusqu'à ce qu'ils soient dorés et ramollis. Réduisez le feu à doux, ajoutez les œufs battus, et brouillez jusqu'à cuits.",
+        "Grillez le pain complet.",
+        "Garnissez le toast avec les œufs brouillés et les champignons"
+      ],
+      "step_count": 5,
+      "ingredients": [
+        {
+          "raw": "- Oeuf, gros 2 u",
+          "name": "Oeuf, gros",
+          "quantity": 2.0,
+          "unit": "u",
+          "grams": null
+        },
+        {
+          "raw": "- Huile au choix 1 càc",
+          "name": "Huile au choix",
+          "quantity": 1.0,
+          "unit": "càc",
+          "grams": 4.5
+        },
+        {
+          "raw": "- Pain complet 2 tr (64 g)",
+          "name": "Pain complet",
+          "quantity": 2.0,
+          "unit": "tr",
+          "grams": 64.0
+        },
+        {
+          "raw": "- Champignon, tr. 200 g",
+          "name": "Champignon, tr.",
+          "quantity": 200.0,
+          "unit": "g",
+          "grams": null
+        }
+      ],
+      "servings": 1,
+      "source_pdf": "Plan alimentaire 1.pdf",
+      "page_number": 28,
+      "source_pdf_all": [
+        "Plan alimentaire 1.pdf",
+        "Plan alimentaire 1.PDF"
+      ]
+    },
+    {
+      "title": "Toast Beurré avec Fromage Blanc à",
+      "steps": [
+        "Confiture 3 càc (60 g)",
+        "Grillez le pain complet au grille-pain si souhaité.",
+        "Étalez le beurre sur le pain. Servez le tout accompagné d'un fromage blanc nature 3% mélangé à la confiture. Toast Beurré avec Fromage Blanc à la Confiture"
+      ],
+      "step_count": 3,
+      "ingredients": [
+        {
+          "raw": "- Pain complet 2 tr (64 g)",
+          "name": "Pain complet",
+          "quantity": 2.0,
+          "unit": "tr",
+          "grams": 64.0
+        },
+        {
+          "raw": "- Beurre 15 g",
+          "name": "Beurre",
+          "quantity": 15.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Fromage blanc 3% 200 g",
+          "name": "Fromage blanc 3%",
+          "quantity": 200.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Confiture 3 càc (60 g)",
+          "name": "Confiture",
+          "quantity": 3.0,
+          "unit": "càc",
+          "grams": 60.0
+        }
+      ],
+      "servings": 1,
+      "source_pdf": "Plan alimentaire 3.PDF",
+      "page_number": 28
+    },
+    {
+      "title": "Toast Chèvre-Miel",
+      "steps": [
+        "Toastez le pain complet jusqu'à ce qu'il soit doré.",
+        "Étalez le fromage de chèvre frais uniformément sur le toast.",
+        "Arrosez la tartine de miel.",
+        "Ajoutez une pincée de zeste de citron et garnissez avec les feuilles de basilic frais.",
+        "Servez immédiatement"
+      ],
+      "step_count": 5,
+      "ingredients": [
+        {
+          "raw": "- Miel (ou agave) 1 càs",
+          "name": "Miel (ou agave)",
+          "quantity": 1.0,
+          "unit": "càs",
+          "grams": 20.0
+        },
+        {
+          "raw": "- Basilic frais 1 càs",
+          "name": "Basilic frais",
+          "quantity": 1.0,
+          "unit": "càs",
+          "grams": 15.0
+        },
+        {
+          "raw": "- Pain complet 2 tr (64 g)",
+          "name": "Pain complet",
+          "quantity": 2.0,
+          "unit": "tr",
+          "grams": 64.0
+        },
+        {
+          "raw": "- Jus de citron 0,5 càs",
+          "name": "Jus de citron",
+          "quantity": 0.5,
+          "unit": "càs",
+          "grams": 7.75
+        },
+        {
+          "raw": "- Fr. de chèvre à tart. 8 càs (120 g)",
+          "name": "Fr. de chèvre à tart.",
+          "quantity": 8.0,
+          "unit": "càs",
+          "grams": 120.0
+        }
+      ],
+      "servings": 1,
+      "source_pdf": "Plan alimentaire 4.PDF",
+      "page_number": 38
+    },
+    {
+      "title": "Toast Fraîcheur à la Viande des Grisons",
+      "steps": [
+        "Faites griller le pain au grille-pain si souhaité. Coupez les tomates cerises en deux.",
+        "Étalez le cottage cheese sur le pain grillé. Recouvrez uniformément de morceaux de viande des Grisons et de tomates cerises. Salez, poivrez et décorez de basilic ou d'une herbe au choix si souhaité"
+      ],
+      "step_count": 2,
+      "ingredients": [
+        {
+          "raw": "- Pain complet 3 tr (96 g)",
+          "name": "Pain complet",
+          "quantity": 3.0,
+          "unit": "tr",
+          "grams": 96.0
+        },
+        {
+          "raw": "- Tomate cerise 8 u",
+          "name": "Tomate cerise",
+          "quantity": 8.0,
+          "unit": "u",
+          "grams": null
+        },
+        {
+          "raw": "- Fromage cottage 4 càs (60 g)",
+          "name": "Fromage cottage",
+          "quantity": 4.0,
+          "unit": "càs",
+          "grams": 60.0
+        },
+        {
+          "raw": "- Viande des grisons 5 tr (40 g)",
+          "name": "Viande des grisons",
+          "quantity": 5.0,
+          "unit": "tr",
+          "grams": 40.0
+        }
+      ],
+      "servings": 1,
+      "source_pdf": "Plan alimentaire 4.PDF",
+      "page_number": 18
+    },
+    {
+      "title": "Toast Jambon-Œuf",
+      "steps": [
+        "Faites bouillir de l'eau dans une casserole et cuisez l'œuf jusqu'à ce qu'il soit dur pendant 10 minutes.",
+        "Pendant ce temps, coupez la tomate en rondelles et faites griller le pain au grille-pain.",
+        "Une fois l'œuf cuit, passez-le sous l'eau froide, écalez-le et coupez-le en rondelles. Étalez la mayonnaise sur le pain grillé et ajoutez le jambon, les rondelles de tomate et d'œuf.",
+        "Assaisonnez avec du sel et du poivre au goût"
+      ],
+      "step_count": 4,
+      "ingredients": [
+        {
+          "raw": "- Oeuf, gros 1 u",
+          "name": "Oeuf, gros",
+          "quantity": 1.0,
+          "unit": "u",
+          "grams": null
+        },
+        {
+          "raw": "- Tomate 1 u",
+          "name": "Tomate",
+          "quantity": 1.0,
+          "unit": "u",
+          "grams": null
+        },
+        {
+          "raw": "- Pain complet 1 tr (32 g)",
+          "name": "Pain complet",
+          "quantity": 1.0,
+          "unit": "tr",
+          "grams": 32.0
+        },
+        {
+          "raw": "- Jambon 2 tr (80 g)",
+          "name": "Jambon",
+          "quantity": 2.0,
+          "unit": "tr",
+          "grams": 80.0
+        },
+        {
+          "raw": "- Mayonnaise 2 càc (10 g)",
+          "name": "Mayonnaise",
+          "quantity": 2.0,
+          "unit": "càc",
+          "grams": 10.0
+        }
+      ],
+      "servings": 1,
+      "source_pdf": "Plan alimentaire 2.PDF",
+      "page_number": 16
+    },
+    {
+      "title": "Tofu Brouillé Facile et Légumes",
+      "steps": [
+        "Dans une poêle antiadhésive, faites sauter le tofu émietté dans l'huile, sur feux moyen-doux.",
+        "Ajoutez un peu d'eau ou de lait végétal pour lier le tout, puis le curcuma, set et poivre, en remuant pour mélanger. Vous pouvez également ajouter un peu de paprika, piment ou oignon en poudre pour relever si souhaité.",
+        "Servez le tofu brouillé et accompagnez du légume de votre choix (cuit ou cru) et de pain complet"
+      ],
+      "step_count": 3,
+      "ingredients": [
+        {
+          "raw": "- Huile au choix 1 càc",
+          "name": "Huile au choix",
+          "quantity": 1.0,
+          "unit": "càc",
+          "grams": 4.5
+        },
+        {
+          "raw": "- Tofu ferme 150 g",
+          "name": "Tofu ferme",
+          "quantity": 150.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Pain complet 1 tr (32 g)",
+          "name": "Pain complet",
+          "quantity": 1.0,
+          "unit": "tr",
+          "grams": 32.0
+        },
+        {
+          "raw": "- Curcuma 1 càc",
+          "name": "Curcuma",
+          "quantity": 1.0,
+          "unit": "càc",
+          "grams": 5.0
+        },
+        {
+          "raw": "- Légumes au choix 150 g",
+          "name": "Légumes au choix",
+          "quantity": 150.0,
+          "unit": "g",
+          "grams": null
+        }
+      ],
+      "servings": 1,
+      "source_pdf": "Plan alimentaire 4.PDF",
+      "page_number": 8
+    },
+    {
+      "title": "Wasa à la Truite Fumée et Fromage",
+      "steps": [
+        "Dans un bol, mélangez cream cheese avec du jus de citron et de l'aneth.",
+        "Tartinez le mélange sur les tartines Wasa.",
+        "Ajoutez des tranches de truite fumée et une pincée d'aneth haché.Wasa à la Truite Fumée et Fromage Frais"
+      ],
+      "step_count": 3,
+      "ingredients": [
+        {
+          "raw": "- Aneth frais 0,5 càc",
+          "name": "Aneth frais",
+          "quantity": 0.5,
+          "unit": "càc",
+          "grams": 0.5
+        },
+        {
+          "raw": "- Jus de citron 0,5 càs",
+          "name": "Jus de citron",
+          "quantity": 0.5,
+          "unit": "càs",
+          "grams": 7.75
+        },
+        {
+          "raw": "- Fromage à tartiner 30 g",
+          "name": "Fromage à tartiner",
+          "quantity": 30.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Tartine Wasa 2 u (24 g)",
+          "name": "Tartine Wasa",
+          "quantity": 2.0,
+          "unit": "u",
+          "grams": 24.0
+        },
+        {
+          "raw": "- Truite, fumée 60 g",
+          "name": "Truite, fumée",
+          "quantity": 60.0,
+          "unit": "g",
+          "grams": null
+        }
+      ],
+      "servings": 1,
+      "source_pdf": "Plan alimentaire 4.PDF",
+      "page_number": 40
+    },
+    {
+      "title": "Wrap Asiatiques de Poulet et Laitue",
+      "steps": [
+        "Faites chauffer l'huile de sésame dans une poêle antiadhésive et cuisez le poulet à feu moyen jusqu'à ce qu'il ne soit plus rose et bien cuit.",
+        "Ajoutez la carotte râpée et faites sauter pendant 2 à 3 minutes.",
+        "Mélangez la sauce soja et le miel, et versez sur le mélange de poulet et de carotte.",
+        "Cuire le mélange à feu doux pendant 2 à 3 minutes jusqu'à ce que la sauce soit absorbée. Enfin, mettre le mélange de poulet sur chaque feuille de laitue, le rouler et servir. Laitue"
+      ],
+      "step_count": 4,
+      "ingredients": [
+        {
+          "raw": "- Blanc de poulet 130 g",
+          "name": "Blanc de poulet",
+          "quantity": 130.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Carotte, râpée 4 u",
+          "name": "Carotte, râpée",
+          "quantity": 4.0,
+          "unit": "u",
+          "grams": null
+        },
+        {
+          "raw": "- Miel (ou agave) 2 càc",
+          "name": "Miel (ou agave)",
+          "quantity": 2.0,
+          "unit": "càc",
+          "grams": 13.4
+        },
+        {
+          "raw": "- Sauce soja 3 càs",
+          "name": "Sauce soja",
+          "quantity": 3.0,
+          "unit": "càs",
+          "grams": 48.0
+        },
+        {
+          "raw": "- Huile de sésame 2 càc",
+          "name": "Huile de sésame",
+          "quantity": 2.0,
+          "unit": "càc",
+          "grams": 9.0
+        }
+      ],
+      "servings": 1,
+      "source_pdf": "Plan alimentaire 4.PDF",
+      "page_number": 11
+    },
+    {
+      "title": "Wrap de Dinde et Crudités",
+      "steps": [
+        "Coupez la tomate en morceaux et râpez la carotte. Dans un petit bol, mélangez la mayonnaise, le fromage blanc et la moutarde. Assaisonnez de sel et poivre ou épices, à votre goût. Pour l'assemblage, étalez le mélange de mayonnaise sur la tortilla, puis placez la salade, la tomate, la carotte, le blanc de dinde et le fromage. Assaisonnez à votre goût. Fermez-le et dégustez ou emportez-le dans un tupperware."
+      ],
+      "step_count": 1,
+      "ingredients": [
+        {
+          "raw": "- Dinde, tranche 40 g",
+          "name": "Dinde, tranche",
+          "quantity": 40.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Carotte, râpée 1 u",
+          "name": "Carotte, râpée",
+          "quantity": 1.0,
+          "unit": "u",
+          "grams": null
+        },
+        {
+          "raw": "- Tomate, haché 1 u",
+          "name": "Tomate, haché",
+          "quantity": 1.0,
+          "unit": "u",
+          "grams": null
+        },
+        {
+          "raw": "- Mozzarella 40 g",
+          "name": "Mozzarella",
+          "quantity": 40.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Mayonnaise 1 càc (5 g)",
+          "name": "Mayonnaise",
+          "quantity": 1.0,
+          "unit": "càc",
+          "grams": 5.0
+        },
+        {
+          "raw": "- Moutarde de Dijon 0,3 càs",
+          "name": "Moutarde de Dijon",
+          "quantity": 0.3,
+          "unit": "càs",
+          "grams": 4.5
+        },
+        {
+          "raw": "- Fromage blanc 3% 2 càs (26 g)",
+          "name": "Fromage blanc 3%",
+          "quantity": 2.0,
+          "unit": "càs",
+          "grams": 26.0
+        },
+        {
+          "raw": "- Tortilla, grande 1 u",
+          "name": "Tortilla, grande",
+          "quantity": 1.0,
+          "unit": "u",
+          "grams": null
+        }
+      ],
+      "servings": 1,
+      "source_pdf": "Plan alimentaire 1.pdf",
+      "page_number": 40,
+      "source_pdf_all": [
+        "Plan alimentaire 1.pdf",
+        "Plan alimentaire 1.PDF"
+      ]
+    },
+    {
+      "title": "Wrap de Galette de Sarrasin au Saumon Crémeux",
+      "steps": [
+        "Yaourt au soja (nature) 50 g- Crêpe au sarrasin 1 u (50 g)",
+        "Dans un petit bol, mélangez le yaourt végétal avec le jus de citron, du sel et du poivre.$$Étalez le yaourt citronné sur la galette puis placez la carotte râpée et le saumon fumé. Salez, poivrez.",
+        "Roulez la galette sur elle-même et dégustez"
+      ],
+      "step_count": 3,
+      "ingredients": [
+        {
+          "raw": "- Carotte, râpée 1 u",
+          "name": "Carotte, râpée",
+          "quantity": 1.0,
+          "unit": "u",
+          "grams": null
+        },
+        {
+          "raw": "- Saumon fumé 70 g",
+          "name": "Saumon fumé",
+          "quantity": 70.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Jus de citron 1 càc",
+          "name": "Jus de citron",
+          "quantity": 1.0,
+          "unit": "càc",
+          "grams": 5.2
+        },
+        {
+          "raw": "- Yaourt au soja (nature) 50 g",
+          "name": "Yaourt au soja (nature)",
+          "quantity": 50.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Crêpe au sarrasin 1 u (50 g)",
+          "name": "Crêpe au sarrasin",
+          "quantity": 1.0,
+          "unit": "u",
+          "grams": 50.0
+        }
+      ],
+      "servings": 1,
+      "source_pdf": "Plan alimentaire 1.pdf",
+      "page_number": 34,
+      "source_pdf_all": [
+        "Plan alimentaire 1.pdf",
+        "Plan alimentaire 1.PDF"
+      ]
+    },
+    {
+      "title": "Wrap Facile au Thon et au Parmesan",
+      "steps": [
+        "Dans un petit bol, mélangez le thon, le yaourt, l'oignon rouge et le céleri coupé en petits morceaux.",
+        "Assaisonnez avec du sel, du poivre et de la moutarde. Mélangez bien.",
+        "Placez la tortilla sur une surface propre.",
+        "Placez les feuilles de laitue au centre de la tortilla. Déposez le mélange de thon sur les feuilles de laitue, en étalant uniformément.",
+        "Ajouter le parmesan dessus.",
+        "Pliez la tortilla sur la garniture et formez un wrap. Parmesan"
+      ],
+      "step_count": 6,
+      "ingredients": [
+        {
+          "raw": "- Céleri 50 g",
+          "name": "Céleri",
+          "quantity": 50.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Parmesan 1 càs (5 g)",
+          "name": "Parmesan",
+          "quantity": 1.0,
+          "unit": "càs",
+          "grams": 5.0
+        },
+        {
+          "raw": "- Thon en boîte 200 g",
+          "name": "Thon en boîte",
+          "quantity": 200.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Laitue romaine 50 g",
+          "name": "Laitue romaine",
+          "quantity": 50.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Fromage blanc 3% 3 càs (39 g)",
+          "name": "Fromage blanc 3%",
+          "quantity": 3.0,
+          "unit": "càs",
+          "grams": 39.0
+        },
+        {
+          "raw": "- Oignon rouge, haché 0,25 u",
+          "name": "Oignon rouge, haché",
+          "quantity": 0.25,
+          "unit": "u",
+          "grams": null
+        },
+        {
+          "raw": "- Tortilla, grande 1 u",
+          "name": "Tortilla, grande",
+          "quantity": 1.0,
+          "unit": "u",
+          "grams": null
+        }
+      ],
+      "servings": 1,
+      "source_pdf": "Plan alimentaire 4.PDF",
+      "page_number": 39
+    },
+    {
+      "title": "Wraps de Laitue Façon Taco au Boeuf Haché",
+      "steps": [
+        "Cuire le boeuf haché dans une poêle antiadhésive avec l'huile à feu moyen.",
+        "Ajouter l'assaisonnement pour tacos, du sel et du poivre.",
+        "Incorporer le maïs et les haricots noirs en conserve.",
+        "Verser le mélange de boeuf sur les feuilles de laitue.",
+        "Garnir de tomate coupée en dés et de yaourt. Boeuf Haché"
+      ],
+      "step_count": 5,
+      "ingredients": [
+        {
+          "raw": "- Tomate, haché 2 u",
+          "name": "Tomate, haché",
+          "quantity": 2.0,
+          "unit": "u",
+          "grams": null
+        },
+        {
+          "raw": "- Huile au choix 1 càc",
+          "name": "Huile au choix",
+          "quantity": 1.0,
+          "unit": "càc",
+          "grams": 4.5
+        },
+        {
+          "raw": "- Yaourt grec 0% 3 càs (45 g)",
+          "name": "Yaourt grec 0%",
+          "quantity": 3.0,
+          "unit": "càs",
+          "grams": 45.0
+        },
+        {
+          "raw": "- Maïs, boîte 70 g",
+          "name": "Maïs, boîte",
+          "quantity": 70.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Haricots rouges, boîte 60 g",
+          "name": "Haricots rouges, boîte",
+          "quantity": 60.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Epices Tacos 1 càc",
+          "name": "Epices Tacos",
+          "quantity": 1.0,
+          "unit": "càc",
+          "grams": 5.0
+        },
+        {
+          "raw": "- Boeuf 5%, haché 120 g",
+          "name": "Boeuf 5%, haché",
+          "quantity": 120.0,
+          "unit": "g",
+          "grams": null
+        }
+      ],
+      "servings": 1,
+      "source_pdf": "Plan alimentaire 1.pdf",
+      "page_number": 15,
+      "source_pdf_all": [
+        "Plan alimentaire 1.pdf",
+        "Plan alimentaire 1.PDF"
+      ]
+    },
+    {
+      "title": "Yaourt Grec et Granola",
+      "steps": [
+        "Dans un bol, mélangez le yaourt grec nature et le granola"
+      ],
+      "step_count": 1,
+      "ingredients": [
+        {
+          "raw": "- Yaourt grec 0% 150 g",
+          "name": "Yaourt grec 0%",
+          "quantity": 150.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Granola au choix 40 g",
+          "name": "Granola au choix",
+          "quantity": 40.0,
+          "unit": "g",
+          "grams": null
+        }
+      ],
+      "servings": 1,
+      "source_pdf": "Plan alimentaire 1.pdf",
+      "page_number": 14,
+      "source_pdf_all": [
+        "Plan alimentaire 1.pdf",
+        "Plan alimentaire 1.PDF"
+      ]
+    },
+    {
+      "title": "Yaourt Végétal Protéiné au Granola et Fruits",
+      "steps": [
+        "Lavez les fruits et les couper en morceaux. Versez le yaourt végétal non sucré (d'au moins 3g de protéine/100g) dans un bol, puis le miel et mélangez.",
+        "Ajoutez la protéine en poudre et mélangez bien.",
+        "Répartissez le muesli et disposez les morceaux de fruit et les amandes au-dessus"
+      ],
+      "step_count": 3,
+      "ingredients": [
+        {
+          "raw": "- Miel (ou agave) 1 càc",
+          "name": "Miel (ou agave)",
+          "quantity": 1.0,
+          "unit": "càc",
+          "grams": 6.7
+        },
+        {
+          "raw": "- Granola au choix 30 g",
+          "name": "Granola au choix",
+          "quantity": 30.0,
+          "unit": "g",
+          "grams": null
+        },
+        {
+          "raw": "- Fruit au choix 1 u",
+          "name": "Fruit au choix",
+          "quantity": 1.0,
+          "unit": "u",
+          "grams": null
+        },
+        {
+          "raw": "- Yaourt végétal, choix 100 g",
+          "name": "Yaourt végétal, choix",
+          "quantity": 100.0,
+          "unit": "g",
+          "grams": null
+        }
+      ],
+      "servings": 1,
+      "source_pdf": "Plan alimentaire 2.PDF",
+      "page_number": 32
+    }
+  ],
+  "_merge_report": {
+    "stats": {
+      "total_in_etapes": 94,
+      "total_in_ingredients": 94,
+      "merged": 94,
+      "only_in_etapes": 0,
+      "only_in_ingredients": 0
+    },
+    "only_in_etapes_titles": [],
+    "only_in_ingredients_titles": []
+  }
+}

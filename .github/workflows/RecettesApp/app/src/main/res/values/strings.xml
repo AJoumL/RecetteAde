@@ -1,0 +1,12 @@
+
+<resources>
+    <string name="app_name">Recettes</string>
+    <string name="search_hint">Rechercher une recette…</string>
+    <string name="servings">Portions</string>
+    <string name="ingredients">Ingrédients</string>
+    <string name="steps">Étapes</string>
+    <string name="add_to_list">Ajouter à la liste de courses</string>
+    <string name="open_list">Liste de courses</string>
+    <string name="selected">sélectionné(s)</string>
+    <string name="empty_list">Votre liste de courses est vide</string>
+</resources>
